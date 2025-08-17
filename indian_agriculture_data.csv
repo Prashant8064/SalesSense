@@ -1,0 +1,1001 @@
+Date,State,District,Crop,Rainfall_mm,Fertilizer_Used_kg,Temperature_C,Market_Price,Yield_Tons,Demand_Index
+2022-06-28,Tamil Nadu,Salem,Pulses,131,139,40.6,3614,1.5,60
+2023-09-04,Punjab,Patiala,Pulses,173,146,32.9,3484,1.02,51
+2022-05-04,West Bengal,Howrah,Sugarcane,123,40,36.2,3041,7.76,24
+2024-10-11,Uttar Pradesh,Varanasi,Sugarcane,197,25,26.6,2976,7.14,49
+2023-02-21,Uttar Pradesh,Agra,Wheat,48,132,31.8,2191,3.65,84
+2022-11-05,Tamil Nadu,Tiruchirappalli,Rice,170,133,14.7,2540,4.09,71
+2022-04-04,Haryana,Gurgaon,Rice,121,21,41.2,2618,5.36,26
+2022-12-08,Haryana,Karnal,Rice,184,23,44.4,2173,4.81,1
+2023-02-22,Tamil Nadu,Salem,Cotton,151,75,33.1,4749,1.33,100
+2023-11-07,Madhya Pradesh,Indore,Sugarcane,204,71,16.5,3119,5.47,2
+2024-06-26,Maharashtra,Nashik,Cotton,50,137,14.7,4334,2.7,52
+2022-02-10,Bihar,Muzaffarpur,Rice,65,10,19.0,2205,4.09,74
+2023-11-24,Maharashtra,Nashik,Rice,130,106,37.8,2467,3.78,53
+2024-11-04,Haryana,Panipat,Cotton,143,36,25.3,4307,2.84,74
+2023-11-16,Punjab,Bathinda,Cotton,162,140,24.1,4147,1.42,49
+2023-09-22,Maharashtra,Mumbai,Pulses,100,11,34.2,4035,1.77,12
+2022-12-30,Maharashtra,Aurangabad,Rice,164,134,10.7,2678,5.24,28
+2024-12-26,Haryana,Karnal,Wheat,150,31,28.3,2410,4.38,33
+2024-02-21,Uttar Pradesh,Varanasi,Wheat,222,134,13.3,2329,3.06,99
+2022-11-06,Rajasthan,Kota,Sugarcane,163,141,13.5,3033,9.15,37
+2024-06-24,Maharashtra,Aurangabad,Cotton,161,60,10.4,4965,2.92,46
+2023-05-28,Tamil Nadu,Coimbatore,Maize,241,56,30.2,1998,3.33,27
+2024-06-13,Punjab,Bathinda,Pulses,209,45,36.9,3915,1.53,37
+2022-11-21,Punjab,Patiala,Rice,128,59,44.6,2034,3.2,16
+2023-11-29,Uttar Pradesh,Allahabad,Maize,178,16,28.8,2076,2.77,87
+2024-09-02,Madhya Pradesh,Gwalior,Sugarcane,94,143,36.5,2927,7.0,34
+2022-04-02,Uttar Pradesh,Varanasi,Cotton,100,71,18.7,4886,1.93,3
+2023-08-18,Punjab,Patiala,Rice,228,24,24.2,2619,5.9,73
+2022-05-08,Madhya Pradesh,Ujjain,Wheat,154,31,16.6,2221,2.91,95
+2023-01-26,Bihar,Darbhanga,Rice,89,124,32.7,2292,3.48,18
+2023-11-29,West Bengal,Asansol,Wheat,183,103,40.7,2425,2.93,33
+2023-03-05,Haryana,Panipat,Cotton,166,32,12.6,4114,1.31,30
+2022-04-30,Rajasthan,Udaipur,Pulses,131,73,26.2,3300,1.1,56
+2024-04-30,Bihar,Darbhanga,Pulses,220,70,25.4,3680,1.82,40
+2024-04-08,Tamil Nadu,Tiruchirappalli,Maize,86,87,29.8,2119,3.63,35
+2023-06-03,Madhya Pradesh,Jabalpur,Sugarcane,162,140,15.3,3202,5.85,72
+2023-09-19,Karnataka,Mangaluru,Rice,123,93,32.4,2972,4.0,9
+2022-11-20,Rajasthan,Udaipur,Wheat,178,60,19.8,2338,4.08,67
+2024-02-11,Karnataka,Bengaluru,Cotton,174,110,36.5,4039,1.56,35
+2023-08-12,Bihar,Patna,Wheat,31,88,42.0,1993,3.45,37
+2023-01-26,Karnataka,Bengaluru,Wheat,145,143,37.6,2029,2.65,75
+2022-12-27,Tamil Nadu,Coimbatore,Cotton,198,65,34.9,4475,1.63,14
+2024-10-02,Madhya Pradesh,Bhopal,Maize,184,117,18.0,1682,2.63,4
+2022-05-19,Bihar,Gaya,Pulses,167,129,42.7,3997,1.98,50
+2022-10-30,Maharashtra,Nagpur,Pulses,158,58,36.2,4428,1.8,97
+2024-03-23,Karnataka,Hubli,Pulses,244,15,28.0,4256,1.98,63
+2022-10-01,Tamil Nadu,Madurai,Wheat,170,28,32.7,1864,3.79,22
+2023-12-17,Bihar,Bhagalpur,Maize,126,125,18.6,1876,3.64,18
+2022-10-29,Punjab,Bathinda,Cotton,97,76,36.2,4757,2.15,64
+2023-02-16,Tamil Nadu,Salem,Sugarcane,111,130,13.1,3249,7.5,88
+2023-11-22,Tamil Nadu,Madurai,Sugarcane,172,24,23.6,3190,8.9,40
+2022-01-20,West Bengal,Kolkata,Wheat,214,98,17.0,2483,4.18,84
+2023-10-28,Tamil Nadu,Tiruchirappalli,Cotton,205,100,16.0,4241,2.68,35
+2023-04-30,Uttar Pradesh,Agra,Cotton,128,124,40.9,4633,1.02,98
+2022-01-19,Rajasthan,Jodhpur,Sugarcane,99,134,30.7,3126,9.99,21
+2024-07-24,West Bengal,Darjeeling,Pulses,124,147,26.9,3628,1.95,51
+2023-10-14,Tamil Nadu,Tiruchirappalli,Cotton,121,129,28.3,4279,2.17,37
+2023-12-07,Punjab,Ludhiana,Sugarcane,174,141,13.2,3366,5.7,92
+2022-10-26,Haryana,Gurgaon,Rice,177,120,35.0,2445,5.77,29
+2023-04-11,Punjab,Jalandhar,Cotton,269,78,23.0,4780,2.32,44
+2023-12-03,Punjab,Ludhiana,Rice,190,83,26.7,2015,3.89,7
+2024-11-02,Maharashtra,Mumbai,Cotton,256,20,37.4,5000,1.94,91
+2022-06-28,Punjab,Bathinda,Wheat,170,44,25.3,2419,3.41,36
+2023-01-04,Rajasthan,Jaipur,Sugarcane,143,85,37.3,3284,8.74,100
+2023-03-20,Madhya Pradesh,Ujjain,Wheat,160,129,41.7,2371,3.86,32
+2022-12-01,Rajasthan,Ajmer,Sugarcane,133,55,16.7,3065,6.23,99
+2024-11-21,Bihar,Darbhanga,Rice,143,111,39.0,2607,4.57,40
+2024-05-18,Tamil Nadu,Coimbatore,Rice,234,124,42.3,2460,5.12,35
+2024-05-07,Rajasthan,Jaipur,Rice,154,95,32.2,2451,5.22,35
+2024-01-19,Haryana,Hisar,Pulses,195,20,28.2,4301,1.25,83
+2022-01-15,Madhya Pradesh,Ujjain,Wheat,208,100,41.4,1970,3.84,85
+2023-11-29,Maharashtra,Nagpur,Sugarcane,163,102,15.7,3259,7.11,38
+2023-06-30,Karnataka,Mysuru,Cotton,200,12,42.0,4549,1.71,33
+2022-03-25,Tamil Nadu,Madurai,Pulses,112,104,10.3,3966,1.2,43
+2023-10-20,Madhya Pradesh,Gwalior,Maize,116,141,26.2,1937,3.04,89
+2022-01-09,Bihar,Muzaffarpur,Pulses,158,134,44.5,3737,1.97,89
+2023-12-08,Haryana,Karnal,Pulses,176,96,29.0,3973,1.89,82
+2022-06-25,Karnataka,Mangaluru,Sugarcane,142,128,31.4,3445,7.42,16
+2022-09-18,Madhya Pradesh,Jabalpur,Wheat,177,100,10.8,1880,4.16,30
+2023-10-09,Haryana,Panipat,Maize,155,81,36.8,2025,2.57,14
+2023-08-03,Punjab,Bathinda,Pulses,111,13,26.2,4304,1.95,77
+2022-11-29,Uttar Pradesh,Kanpur,Rice,166,115,36.1,2747,4.19,91
+2023-01-14,West Bengal,Howrah,Pulses,110,39,20.5,4486,1.96,54
+2022-09-27,Uttar Pradesh,Lucknow,Maize,190,58,22.6,1600,3.09,34
+2024-04-12,Punjab,Jalandhar,Wheat,127,127,14.5,2448,2.77,28
+2024-05-14,Haryana,Karnal,Maize,246,72,33.4,1750,3.87,50
+2023-02-21,Rajasthan,Kota,Wheat,217,80,45.0,2206,3.93,62
+2022-02-24,Punjab,Bathinda,Sugarcane,198,16,26.2,2997,5.58,91
+2022-07-20,Haryana,Gurgaon,Cotton,136,147,36.7,4234,2.13,19
+2023-09-09,Tamil Nadu,Madurai,Wheat,155,141,39.9,2392,4.78,22
+2022-09-08,Haryana,Faridabad,Maize,155,113,41.3,1594,3.81,52
+2023-02-24,West Bengal,Asansol,Pulses,178,12,30.8,4184,1.76,38
+2024-04-04,Tamil Nadu,Coimbatore,Wheat,155,109,13.8,2064,3.67,63
+2023-08-11,Karnataka,Bengaluru,Rice,69,95,32.3,2060,5.15,70
+2022-10-08,Karnataka,Hubli,Sugarcane,195,30,11.2,3284,7.34,45
+2023-09-11,Karnataka,Mangaluru,Pulses,143,30,15.1,3267,1.12,96
+2023-09-30,West Bengal,Darjeeling,Rice,209,77,33.8,2274,3.24,16
+2024-07-18,West Bengal,Siliguri,Cotton,65,66,44.1,4238,1.61,55
+2024-03-08,Uttar Pradesh,Kanpur,Cotton,197,114,14.1,4502,2.86,62
+2024-12-20,Madhya Pradesh,Jabalpur,Cotton,116,63,16.9,4898,1.44,76
+2022-09-03,Uttar Pradesh,Allahabad,Cotton,174,55,23.1,4024,1.98,10
+2023-09-09,Bihar,Muzaffarpur,Rice,164,10,40.9,2739,5.7,11
+2023-12-07,Madhya Pradesh,Indore,Maize,227,64,30.8,1898,2.73,14
+2023-09-15,Haryana,Faridabad,Maize,134,75,22.2,1525,3.77,41
+2023-02-17,Uttar Pradesh,Agra,Cotton,172,120,22.7,4900,2.8,82
+2024-08-28,Bihar,Patna,Pulses,153,37,17.7,3714,1.85,25
+2022-02-01,Karnataka,Hubli,Maize,58,56,13.7,1797,2.65,73
+2022-11-04,Tamil Nadu,Madurai,Maize,183,147,44.2,2077,2.96,23
+2022-08-31,West Bengal,Asansol,Sugarcane,136,93,17.0,3200,5.93,81
+2024-10-27,Punjab,Bathinda,Maize,188,54,12.4,2170,3.38,77
+2024-12-20,Haryana,Faridabad,Pulses,154,22,32.9,4112,1.47,47
+2024-09-24,Karnataka,Mangaluru,Sugarcane,119,27,34.7,3163,6.7,32
+2024-10-02,Rajasthan,Udaipur,Cotton,176,144,44.9,4272,1.35,58
+2022-08-21,Madhya Pradesh,Bhopal,Sugarcane,149,102,29.0,3334,9.57,63
+2024-03-24,Bihar,Muzaffarpur,Cotton,176,60,12.5,4702,2.14,18
+2024-02-03,Punjab,Amritsar,Sugarcane,182,102,11.5,3028,9.61,34
+2022-06-10,West Bengal,Howrah,Sugarcane,168,124,39.4,3279,8.53,88
+2023-11-10,Maharashtra,Pune,Rice,61,39,29.1,2512,3.04,24
+2022-01-24,Uttar Pradesh,Lucknow,Pulses,184,27,43.7,4317,1.1,72
+2024-09-02,Karnataka,Mysuru,Rice,176,71,28.0,2280,3.22,51
+2022-03-15,Maharashtra,Mumbai,Wheat,124,145,15.5,1994,3.16,83
+2023-05-23,Uttar Pradesh,Varanasi,Maize,144,81,26.4,1682,2.3,45
+2024-12-15,West Bengal,Siliguri,Wheat,187,56,35.6,1950,4.28,96
+2022-04-06,Tamil Nadu,Madurai,Maize,84,85,44.4,1837,2.38,52
+2023-05-16,Maharashtra,Nashik,Sugarcane,90,126,18.7,3482,8.83,18
+2024-09-06,Uttar Pradesh,Varanasi,Cotton,147,113,37.6,4253,2.42,83
+2024-10-28,Tamil Nadu,Tiruchirappalli,Sugarcane,177,123,43.6,3225,8.08,88
+2022-12-12,Tamil Nadu,Tiruchirappalli,Rice,227,73,24.1,2784,5.83,93
+2024-10-22,Karnataka,Hubli,Maize,206,54,13.3,1674,3.61,79
+2023-11-18,West Bengal,Siliguri,Cotton,20,20,25.6,4234,2.28,50
+2023-11-29,Bihar,Patna,Sugarcane,43,46,15.5,3242,6.59,54
+2022-03-19,Maharashtra,Nashik,Maize,169,150,32.7,1895,2.64,85
+2023-12-15,Karnataka,Hubli,Rice,88,25,41.5,2009,3.24,91
+2024-05-24,Tamil Nadu,Tiruchirappalli,Maize,222,51,11.1,2142,3.78,75
+2024-05-16,West Bengal,Asansol,Rice,142,45,43.3,2086,4.47,19
+2024-07-30,Punjab,Ludhiana,Cotton,131,79,13.5,4477,2.56,5
+2022-10-16,Haryana,Hisar,Rice,126,28,33.9,2515,4.32,28
+2023-09-04,Karnataka,Bengaluru,Cotton,177,31,43.4,4773,1.82,32
+2023-09-26,Tamil Nadu,Salem,Sugarcane,226,19,13.6,2901,6.91,90
+2024-09-26,Bihar,Darbhanga,Rice,101,45,21.6,2730,3.78,32
+2022-04-21,Maharashtra,Mumbai,Pulses,98,102,29.6,3156,1.24,1
+2024-05-23,Bihar,Patna,Sugarcane,173,128,15.3,3428,7.06,23
+2023-08-07,Tamil Nadu,Tiruchirappalli,Maize,182,36,35.7,2152,2.91,72
+2023-09-21,Uttar Pradesh,Kanpur,Sugarcane,81,90,19.5,2851,9.35,83
+2024-02-20,Maharashtra,Pune,Wheat,216,103,39.3,1908,3.0,93
+2023-05-31,Tamil Nadu,Salem,Cotton,196,134,26.6,4603,1.38,30
+2023-01-08,Bihar,Muzaffarpur,Wheat,99,59,24.9,1982,4.55,16
+2023-05-04,Punjab,Amritsar,Pulses,132,149,39.3,3973,1.58,67
+2022-07-25,West Bengal,Siliguri,Pulses,219,53,26.9,4244,1.35,74
+2023-09-07,Tamil Nadu,Coimbatore,Pulses,148,45,29.9,4131,1.68,57
+2022-08-08,Maharashtra,Nashik,Maize,68,16,14.4,1569,3.61,70
+2024-10-09,Madhya Pradesh,Gwalior,Rice,177,18,33.5,2845,5.25,6
+2023-03-30,Uttar Pradesh,Varanasi,Sugarcane,194,62,10.1,3141,6.35,41
+2024-12-21,Tamil Nadu,Tiruchirappalli,Pulses,118,104,40.2,3947,1.87,20
+2022-12-05,Madhya Pradesh,Indore,Pulses,143,57,23.6,3621,1.61,80
+2023-03-20,Bihar,Bhagalpur,Pulses,222,146,44.7,3579,1.27,99
+2023-02-26,Maharashtra,Pune,Cotton,142,37,33.9,4146,1.8,24
+2022-07-06,Punjab,Ludhiana,Sugarcane,153,116,12.6,3044,7.71,92
+2023-08-24,Tamil Nadu,Tiruchirappalli,Sugarcane,197,111,18.5,3300,5.18,14
+2023-11-27,Maharashtra,Nagpur,Wheat,276,142,11.3,2416,2.52,68
+2022-03-26,Rajasthan,Jaipur,Maize,174,124,40.4,1977,2.12,53
+2023-01-01,Maharashtra,Nagpur,Rice,138,32,44.4,2280,5.28,32
+2022-10-26,Haryana,Gurgaon,Cotton,199,56,42.0,4105,1.93,23
+2022-06-22,Bihar,Gaya,Rice,191,38,21.6,2142,4.59,42
+2023-09-24,West Bengal,Darjeeling,Maize,174,62,31.8,1736,3.25,25
+2022-01-03,Madhya Pradesh,Indore,Cotton,246,111,42.2,4300,1.21,78
+2023-06-22,Madhya Pradesh,Gwalior,Pulses,80,81,43.6,4235,1.77,85
+2022-12-08,Karnataka,Mangaluru,Pulses,168,61,18.8,3316,1.12,74
+2022-04-05,Karnataka,Belagavi,Maize,31,143,16.5,2178,2.55,99
+2023-10-16,Karnataka,Mysuru,Pulses,134,81,32.0,3941,1.35,27
+2024-09-17,Punjab,Patiala,Cotton,132,83,30.4,4831,1.07,14
+2024-11-30,Uttar Pradesh,Agra,Pulses,53,14,35.5,3355,1.96,78
+2022-01-22,Haryana,Hisar,Sugarcane,123,18,33.3,3474,9.12,80
+2022-03-23,Karnataka,Belagavi,Sugarcane,90,124,19.8,3188,5.69,40
+2022-10-25,Madhya Pradesh,Ujjain,Rice,81,101,29.7,2851,5.88,77
+2023-03-12,West Bengal,Darjeeling,Wheat,64,78,40.1,1998,2.81,9
+2022-04-17,Maharashtra,Mumbai,Cotton,189,71,28.4,4510,1.69,93
+2024-12-04,Haryana,Faridabad,Maize,191,44,33.7,1616,3.12,62
+2022-12-06,Bihar,Bhagalpur,Sugarcane,225,50,10.5,2805,7.06,94
+2022-03-17,Punjab,Amritsar,Rice,79,47,25.6,2789,5.28,77
+2024-10-11,Haryana,Gurgaon,Wheat,106,126,12.2,1812,3.4,55
+2022-10-10,Maharashtra,Aurangabad,Wheat,122,28,38.6,1865,4.76,47
+2024-05-26,Madhya Pradesh,Bhopal,Rice,44,13,14.6,2179,5.72,63
+2023-09-17,Bihar,Bhagalpur,Rice,150,96,24.8,2310,4.31,56
+2023-04-08,Maharashtra,Nashik,Sugarcane,168,41,31.4,3444,6.86,41
+2023-10-23,Uttar Pradesh,Lucknow,Cotton,216,44,22.8,4509,2.04,42
+2022-04-29,Bihar,Gaya,Sugarcane,188,140,10.3,3159,9.18,64
+2022-12-31,West Bengal,Howrah,Sugarcane,127,14,28.8,3062,7.58,95
+2023-05-30,Rajasthan,Jaipur,Sugarcane,171,47,23.7,2843,7.91,62
+2023-07-23,Uttar Pradesh,Varanasi,Cotton,92,69,14.0,4826,1.74,53
+2022-03-11,Madhya Pradesh,Ujjain,Cotton,157,58,42.9,4590,1.58,51
+2023-03-30,Haryana,Gurgaon,Sugarcane,204,106,27.8,3222,6.83,45
+2022-02-08,Uttar Pradesh,Agra,Pulses,160,33,14.6,3895,1.24,61
+2024-04-10,Bihar,Darbhanga,Sugarcane,199,73,37.8,3417,8.43,23
+2024-10-26,Rajasthan,Jaipur,Cotton,68,105,21.6,4663,1.71,61
+2023-05-14,Rajasthan,Jaipur,Sugarcane,96,143,38.2,3233,5.72,22
+2023-08-01,Madhya Pradesh,Jabalpur,Rice,45,19,23.0,2480,5.7,54
+2024-11-11,Rajasthan,Udaipur,Cotton,203,87,32.0,4592,1.04,7
+2024-08-10,Madhya Pradesh,Ujjain,Wheat,180,99,39.6,1973,4.25,69
+2024-08-14,West Bengal,Kolkata,Sugarcane,175,124,16.7,3464,7.56,94
+2022-07-31,Rajasthan,Jaipur,Pulses,156,32,13.5,4160,1.36,26
+2023-02-24,Rajasthan,Jodhpur,Cotton,137,109,30.6,4846,2.63,57
+2023-05-02,Bihar,Gaya,Sugarcane,207,46,40.9,3160,8.62,56
+2022-03-14,Punjab,Amritsar,Sugarcane,98,92,31.2,3213,5.1,61
+2023-08-28,Uttar Pradesh,Agra,Wheat,183,54,16.0,1818,2.71,90
+2024-06-16,Rajasthan,Ajmer,Wheat,87,131,22.6,1861,2.8,34
+2022-04-19,Uttar Pradesh,Kanpur,Wheat,71,36,10.1,2056,2.11,98
+2023-03-31,Karnataka,Bengaluru,Sugarcane,108,16,36.5,3012,7.97,27
+2023-11-10,Punjab,Patiala,Wheat,195,105,37.0,2262,2.56,58
+2022-07-19,Haryana,Hisar,Rice,71,117,39.6,2427,5.09,88
+2024-10-22,Haryana,Panipat,Pulses,164,55,42.9,4133,1.95,4
+2022-02-13,West Bengal,Siliguri,Sugarcane,84,150,32.2,2842,6.19,73
+2024-09-09,Bihar,Darbhanga,Maize,125,133,15.5,1984,2.93,36
+2022-04-08,Haryana,Faridabad,Rice,136,70,37.8,2058,3.31,10
+2022-08-21,Karnataka,Mangaluru,Wheat,136,83,43.7,1950,2.54,90
+2023-01-05,Bihar,Darbhanga,Pulses,102,84,38.9,3296,1.58,50
+2022-01-28,Haryana,Panipat,Rice,152,137,19.3,2719,5.26,35
+2024-08-01,Haryana,Panipat,Cotton,56,130,30.2,4150,1.97,36
+2023-10-22,Tamil Nadu,Coimbatore,Sugarcane,113,108,24.0,2809,8.71,55
+2023-07-05,Uttar Pradesh,Varanasi,Rice,143,105,41.8,2857,5.98,69
+2022-01-31,Karnataka,Hubli,Wheat,60,14,42.9,2214,4.15,79
+2022-01-16,Rajasthan,Jaipur,Rice,211,15,30.2,2642,5.45,97
+2022-10-14,Bihar,Patna,Rice,78,109,11.1,2996,3.29,46
+2024-01-09,Bihar,Darbhanga,Wheat,80,77,34.6,1910,2.42,17
+2023-11-03,Rajasthan,Kota,Pulses,121,32,27.9,3902,1.74,19
+2023-11-02,Haryana,Hisar,Maize,196,56,42.6,1991,3.1,30
+2022-03-29,Haryana,Hisar,Pulses,158,57,25.0,3775,1.74,19
+2023-01-05,Bihar,Gaya,Rice,139,69,24.5,2235,5.41,73
+2024-02-01,Tamil Nadu,Coimbatore,Pulses,139,46,11.8,3457,1.12,58
+2023-05-13,Bihar,Muzaffarpur,Sugarcane,192,24,30.0,3022,7.89,93
+2022-10-22,Rajasthan,Kota,Wheat,189,74,27.1,2135,2.24,48
+2024-08-01,West Bengal,Siliguri,Rice,145,97,15.3,2914,4.33,42
+2023-01-02,Haryana,Faridabad,Rice,118,47,44.0,2364,3.46,63
+2024-07-03,Tamil Nadu,Coimbatore,Wheat,159,107,27.7,1813,4.98,75
+2023-06-26,Uttar Pradesh,Kanpur,Sugarcane,226,99,33.0,3445,8.44,16
+2022-12-05,Bihar,Muzaffarpur,Cotton,72,114,44.4,4815,2.56,97
+2022-08-09,Madhya Pradesh,Jabalpur,Sugarcane,74,114,43.6,3485,6.61,76
+2024-12-12,Bihar,Bhagalpur,Sugarcane,69,132,31.3,2978,5.17,40
+2022-08-21,Maharashtra,Nashik,Rice,173,138,22.6,2856,4.28,49
+2023-06-01,West Bengal,Howrah,Pulses,103,102,34.9,3015,1.22,16
+2023-04-11,Rajasthan,Udaipur,Maize,151,11,42.0,2145,3.41,8
+2023-08-12,West Bengal,Howrah,Maize,168,81,41.9,1524,3.51,12
+2024-12-03,Tamil Nadu,Salem,Sugarcane,172,57,41.6,3219,7.81,39
+2023-07-01,Uttar Pradesh,Varanasi,Wheat,173,142,18.9,2098,2.4,99
+2023-07-02,West Bengal,Siliguri,Sugarcane,81,103,12.2,3005,9.88,65
+2023-07-17,West Bengal,Darjeeling,Pulses,188,35,42.3,3217,1.04,84
+2024-05-08,Rajasthan,Udaipur,Wheat,137,98,41.3,2255,2.14,12
+2024-02-12,West Bengal,Howrah,Cotton,99,54,37.0,4550,2.99,46
+2024-05-10,Maharashtra,Nashik,Rice,107,65,35.2,2322,5.13,54
+2024-10-15,West Bengal,Siliguri,Wheat,155,110,32.8,2424,2.51,53
+2022-09-30,Rajasthan,Jodhpur,Maize,179,101,30.2,1578,2.83,6
+2024-03-10,Punjab,Bathinda,Wheat,99,69,31.9,2063,4.6,87
+2023-10-20,Uttar Pradesh,Varanasi,Cotton,156,150,24.1,4853,1.12,98
+2023-03-24,Madhya Pradesh,Gwalior,Maize,88,109,38.4,2187,2.97,58
+2024-11-07,Punjab,Bathinda,Sugarcane,81,107,34.8,2848,9.83,38
+2024-07-19,Punjab,Bathinda,Rice,55,142,14.0,2061,4.44,64
+2023-11-13,Punjab,Patiala,Wheat,199,111,10.5,2014,3.0,98
+2023-09-09,West Bengal,Howrah,Cotton,179,79,22.2,4900,2.77,92
+2022-07-27,Tamil Nadu,Tiruchirappalli,Maize,107,95,35.5,2045,2.59,73
+2024-12-02,Maharashtra,Nashik,Cotton,146,89,29.5,4617,1.41,77
+2024-06-23,Tamil Nadu,Madurai,Pulses,207,58,20.0,3306,1.93,35
+2023-10-31,Maharashtra,Nagpur,Sugarcane,115,121,41.8,3182,6.42,25
+2023-09-12,Maharashtra,Nashik,Maize,133,56,35.2,1778,3.22,96
+2024-04-12,Haryana,Gurgaon,Rice,87,88,38.1,2970,4.27,18
+2023-05-01,Rajasthan,Udaipur,Maize,137,132,38.0,1979,2.09,70
+2023-07-18,Maharashtra,Pune,Wheat,195,64,31.7,2217,2.95,52
+2023-12-27,Tamil Nadu,Chennai,Maize,123,25,19.0,1826,3.93,86
+2022-01-03,Karnataka,Mangaluru,Rice,72,78,26.1,2046,5.54,16
+2024-01-26,West Bengal,Darjeeling,Sugarcane,273,12,28.8,3243,7.79,37
+2022-10-04,Haryana,Karnal,Rice,172,29,12.6,2870,3.12,27
+2024-06-27,Karnataka,Hubli,Pulses,143,129,17.7,4383,1.74,62
+2023-01-06,Haryana,Hisar,Wheat,237,139,19.1,2142,3.03,82
+2024-03-21,Rajasthan,Jodhpur,Cotton,128,62,43.7,4395,2.58,93
+2023-01-29,Uttar Pradesh,Kanpur,Pulses,187,46,26.1,3917,1.82,12
+2023-03-11,Karnataka,Bengaluru,Pulses,155,57,24.9,3775,1.88,34
+2024-08-23,Maharashtra,Aurangabad,Rice,172,147,35.5,2232,3.55,30
+2023-07-27,Tamil Nadu,Tiruchirappalli,Cotton,188,17,37.0,4631,1.13,14
+2023-04-16,Haryana,Gurgaon,Rice,178,149,31.5,2034,4.65,2
+2024-01-01,Bihar,Muzaffarpur,Rice,176,109,20.3,2273,4.71,47
+2022-12-31,Tamil Nadu,Chennai,Rice,127,43,29.9,2936,4.74,92
+2023-11-28,Haryana,Gurgaon,Sugarcane,119,35,18.8,3219,5.95,68
+2023-01-17,Tamil Nadu,Chennai,Sugarcane,162,147,18.9,3475,5.09,34
+2023-10-01,Tamil Nadu,Chennai,Wheat,86,123,33.9,2150,4.78,77
+2024-06-09,Maharashtra,Nashik,Cotton,65,139,23.5,4353,1.78,17
+2023-08-23,Rajasthan,Udaipur,Pulses,85,146,34.9,3497,1.36,92
+2024-08-18,West Bengal,Kolkata,Cotton,145,53,22.0,4860,1.53,86
+2023-03-22,Madhya Pradesh,Ujjain,Rice,179,26,17.0,2667,4.02,33
+2024-08-21,Madhya Pradesh,Jabalpur,Cotton,183,101,15.2,4546,1.35,38
+2024-07-14,Tamil Nadu,Coimbatore,Pulses,125,89,42.5,3702,1.66,100
+2024-02-25,Rajasthan,Udaipur,Cotton,127,99,34.2,4034,2.38,45
+2022-10-29,West Bengal,Howrah,Pulses,99,138,26.4,4148,1.4,10
+2023-03-12,Tamil Nadu,Salem,Pulses,65,140,31.9,3339,1.07,60
+2023-04-30,Madhya Pradesh,Jabalpur,Wheat,204,97,29.8,1927,3.64,29
+2022-04-18,Punjab,Ludhiana,Cotton,93,77,28.8,4573,1.68,100
+2024-05-20,Rajasthan,Ajmer,Sugarcane,66,33,16.5,3347,5.63,17
+2023-06-03,Tamil Nadu,Coimbatore,Maize,235,60,19.6,1774,2.64,37
+2024-11-05,Uttar Pradesh,Kanpur,Pulses,123,81,32.1,3351,1.46,50
+2024-10-30,Uttar Pradesh,Lucknow,Maize,157,57,20.8,2193,3.95,81
+2022-03-01,Haryana,Hisar,Cotton,177,54,29.2,4902,1.78,6
+2022-10-02,Rajasthan,Ajmer,Pulses,130,31,31.9,3489,1.82,78
+2024-10-14,Haryana,Panipat,Rice,127,98,27.3,2005,3.71,10
+2024-04-01,Tamil Nadu,Salem,Maize,85,107,10.9,1601,3.27,16
+2024-09-18,Uttar Pradesh,Lucknow,Sugarcane,163,114,10.6,3357,9.63,20
+2024-04-20,Bihar,Muzaffarpur,Sugarcane,161,51,34.1,3157,5.36,66
+2023-08-27,Rajasthan,Ajmer,Pulses,198,140,19.6,3675,1.55,99
+2023-10-14,Haryana,Faridabad,Pulses,83,53,11.8,3668,1.86,26
+2023-05-22,Bihar,Patna,Wheat,240,53,38.2,1964,2.12,25
+2022-10-20,Bihar,Muzaffarpur,Rice,129,135,17.2,2175,5.66,25
+2023-11-26,Uttar Pradesh,Allahabad,Sugarcane,155,87,33.4,3407,6.65,99
+2024-06-10,Maharashtra,Nashik,Maize,169,114,34.2,2021,3.01,25
+2023-08-14,Rajasthan,Udaipur,Wheat,203,14,30.4,1812,3.24,79
+2024-02-10,Rajasthan,Kota,Wheat,152,123,11.4,2314,4.73,83
+2024-02-09,Karnataka,Bengaluru,Wheat,173,71,17.3,2182,4.01,31
+2023-07-20,Maharashtra,Aurangabad,Sugarcane,126,78,14.2,2920,9.38,29
+2022-02-17,Karnataka,Mysuru,Maize,133,149,23.7,1948,3.05,22
+2023-01-07,Punjab,Ludhiana,Rice,77,40,32.5,2766,5.88,100
+2022-08-10,Madhya Pradesh,Jabalpur,Pulses,189,137,16.2,3021,1.25,17
+2022-10-19,West Bengal,Asansol,Maize,244,30,43.2,2073,3.67,89
+2024-10-22,Bihar,Bhagalpur,Pulses,163,18,13.6,4279,1.58,44
+2023-09-24,Rajasthan,Udaipur,Maize,152,82,12.1,2001,2.48,24
+2023-03-12,Punjab,Patiala,Sugarcane,161,136,42.4,3141,6.23,91
+2024-08-26,Punjab,Ludhiana,Rice,118,99,25.9,2230,5.63,11
+2022-05-09,Karnataka,Hubli,Sugarcane,200,129,17.8,2819,6.58,4
+2024-05-13,Uttar Pradesh,Varanasi,Pulses,170,50,13.3,3775,1.47,11
+2024-06-12,Haryana,Faridabad,Maize,152,131,13.0,1665,3.96,88
+2023-08-03,Haryana,Faridabad,Pulses,178,68,36.3,4078,1.68,93
+2022-06-18,West Bengal,Siliguri,Pulses,23,115,31.6,3122,1.14,45
+2024-03-05,Tamil Nadu,Tiruchirappalli,Sugarcane,251,146,41.3,3123,7.75,68
+2022-11-12,Uttar Pradesh,Lucknow,Wheat,54,83,23.5,2077,4.35,80
+2022-08-09,Haryana,Panipat,Maize,88,75,20.9,1508,3.96,55
+2024-01-13,Bihar,Darbhanga,Wheat,71,115,10.8,1937,4.67,34
+2022-08-19,Karnataka,Mysuru,Pulses,130,18,30.7,3812,1.47,88
+2024-03-11,Rajasthan,Ajmer,Pulses,155,78,18.1,4236,1.22,64
+2024-11-06,Maharashtra,Pune,Wheat,202,128,24.7,1897,3.68,10
+2022-07-22,Uttar Pradesh,Lucknow,Pulses,89,24,42.1,4381,1.57,32
+2024-07-22,Maharashtra,Mumbai,Maize,99,127,29.8,2073,3.8,73
+2023-02-05,Haryana,Hisar,Rice,182,109,33.5,2275,4.92,15
+2023-10-17,Rajasthan,Jodhpur,Pulses,47,23,45.0,4438,1.6,89
+2022-09-02,Tamil Nadu,Coimbatore,Sugarcane,177,41,27.3,3096,5.21,18
+2024-12-31,Uttar Pradesh,Allahabad,Cotton,214,131,16.5,4038,2.79,89
+2024-11-07,Punjab,Jalandhar,Sugarcane,231,43,35.0,3139,7.72,18
+2022-09-12,Bihar,Gaya,Sugarcane,199,144,30.1,2964,6.54,21
+2023-12-21,West Bengal,Darjeeling,Wheat,185,60,13.6,2192,2.77,18
+2022-12-19,Rajasthan,Ajmer,Maize,149,10,28.8,1739,3.68,15
+2022-12-09,Madhya Pradesh,Bhopal,Pulses,175,145,13.4,3444,1.85,96
+2023-02-17,Haryana,Gurgaon,Cotton,201,101,35.3,4013,1.61,45
+2023-09-27,Tamil Nadu,Chennai,Pulses,152,42,21.9,3407,1.44,78
+2022-06-05,Bihar,Darbhanga,Cotton,123,57,39.0,4512,2.69,57
+2024-03-21,Tamil Nadu,Tiruchirappalli,Pulses,74,87,33.6,4377,1.37,53
+2023-04-16,Uttar Pradesh,Varanasi,Pulses,149,29,15.7,4235,1.94,6
+2024-03-28,Bihar,Muzaffarpur,Rice,177,115,21.7,2140,4.51,89
+2023-11-14,Uttar Pradesh,Kanpur,Maize,125,108,16.7,2197,2.04,60
+2023-09-30,Uttar Pradesh,Lucknow,Maize,131,87,42.8,1621,3.22,32
+2024-11-02,Karnataka,Mysuru,Cotton,100,125,45.0,4317,1.18,52
+2023-05-25,Karnataka,Bengaluru,Wheat,145,145,29.9,2127,3.79,37
+2024-12-24,Maharashtra,Aurangabad,Rice,123,85,28.1,2843,3.4,46
+2024-11-01,West Bengal,Howrah,Sugarcane,104,119,18.7,3307,5.98,15
+2024-11-22,Haryana,Panipat,Rice,156,136,27.1,2078,4.62,18
+2024-05-09,Haryana,Faridabad,Cotton,184,27,16.3,4469,2.45,54
+2024-08-10,Punjab,Jalandhar,Maize,215,38,37.2,1902,2.58,45
+2023-07-04,Uttar Pradesh,Kanpur,Wheat,231,118,36.3,2103,4.36,19
+2022-03-14,Maharashtra,Nagpur,Cotton,123,50,37.8,4966,2.21,37
+2022-09-26,Bihar,Darbhanga,Wheat,80,36,10.5,2257,3.85,2
+2023-07-01,Bihar,Bhagalpur,Sugarcane,121,49,32.4,3017,8.51,86
+2023-04-28,Punjab,Patiala,Sugarcane,136,50,18.9,2865,9.71,12
+2023-08-23,Haryana,Karnal,Sugarcane,147,135,11.5,3114,5.46,96
+2022-11-09,Punjab,Patiala,Wheat,115,46,38.4,2034,4.97,8
+2023-11-17,Punjab,Bathinda,Wheat,58,91,37.8,2190,3.83,97
+2024-08-28,Punjab,Ludhiana,Cotton,126,81,37.7,4665,1.71,17
+2022-10-08,Rajasthan,Udaipur,Maize,89,109,22.4,1781,3.19,15
+2023-08-09,Madhya Pradesh,Bhopal,Rice,93,46,28.7,2930,5.81,96
+2024-03-05,Maharashtra,Nagpur,Maize,153,140,35.5,1619,3.43,98
+2024-12-26,Haryana,Karnal,Maize,194,110,35.1,2085,3.14,10
+2022-05-07,Maharashtra,Nagpur,Sugarcane,171,55,41.5,2915,8.13,57
+2023-06-03,Karnataka,Mysuru,Wheat,136,69,16.0,2191,4.99,91
+2022-05-15,Haryana,Hisar,Maize,87,103,16.0,1513,2.66,9
+2024-08-29,Rajasthan,Kota,Maize,225,53,31.4,2115,3.2,69
+2022-08-21,Haryana,Faridabad,Sugarcane,117,41,44.1,2978,8.55,53
+2024-06-27,Madhya Pradesh,Indore,Cotton,136,113,12.8,4690,1.27,60
+2023-11-05,Uttar Pradesh,Kanpur,Wheat,157,34,40.7,2415,4.55,22
+2022-05-06,Rajasthan,Jaipur,Maize,144,101,34.8,1883,3.29,46
+2022-12-19,Bihar,Bhagalpur,Pulses,116,51,28.7,4312,1.36,80
+2023-06-04,Rajasthan,Kota,Cotton,156,44,17.9,4682,2.1,24
+2024-06-13,Punjab,Jalandhar,Pulses,144,44,19.9,3797,1.19,54
+2024-06-22,Karnataka,Bengaluru,Pulses,104,132,20.0,3883,1.13,98
+2023-03-08,Haryana,Gurgaon,Wheat,145,122,15.7,2058,3.36,39
+2024-05-11,Bihar,Patna,Sugarcane,158,15,13.9,2808,9.66,67
+2022-02-14,Madhya Pradesh,Gwalior,Sugarcane,73,143,19.5,2904,8.21,99
+2024-02-21,Maharashtra,Nagpur,Sugarcane,191,35,20.3,3386,7.01,10
+2023-07-31,Bihar,Darbhanga,Wheat,156,117,35.7,1914,4.88,39
+2023-05-03,Tamil Nadu,Coimbatore,Wheat,127,66,42.3,2346,4.82,10
+2023-06-28,West Bengal,Siliguri,Sugarcane,144,130,37.2,3464,5.03,61
+2022-04-12,Bihar,Darbhanga,Wheat,179,11,14.8,2376,3.97,26
+2022-05-09,Rajasthan,Kota,Sugarcane,70,46,19.0,2823,6.14,77
+2023-08-13,Tamil Nadu,Madurai,Rice,114,109,23.5,2607,4.85,3
+2024-10-16,Tamil Nadu,Tiruchirappalli,Sugarcane,159,135,11.5,3446,8.02,52
+2023-09-04,Bihar,Patna,Rice,117,139,39.4,2724,3.02,53
+2022-02-23,Karnataka,Bengaluru,Wheat,142,143,22.5,2177,4.12,92
+2023-03-30,Madhya Pradesh,Indore,Maize,140,142,42.5,2016,3.3,18
+2024-06-28,Uttar Pradesh,Varanasi,Maize,138,105,38.1,1781,3.04,14
+2024-04-04,Bihar,Gaya,Sugarcane,197,95,29.8,3493,9.88,10
+2024-03-06,Bihar,Gaya,Sugarcane,30,59,17.5,2818,5.76,48
+2023-05-08,Maharashtra,Nashik,Rice,96,125,14.4,2736,5.6,75
+2024-10-26,West Bengal,Howrah,Cotton,205,24,44.6,4826,1.98,76
+2023-05-17,Madhya Pradesh,Gwalior,Pulses,161,10,36.4,3825,1.67,85
+2023-09-12,Uttar Pradesh,Agra,Pulses,176,83,44.1,4080,1.24,23
+2022-11-03,Maharashtra,Pune,Rice,223,123,17.4,2270,3.51,75
+2023-08-25,Madhya Pradesh,Jabalpur,Maize,161,97,11.3,1594,3.29,97
+2023-03-15,Haryana,Karnal,Pulses,119,124,22.3,3925,1.88,72
+2023-05-23,West Bengal,Howrah,Cotton,198,131,41.1,4659,2.04,90
+2024-11-28,Haryana,Gurgaon,Maize,150,98,15.0,1905,3.98,20
+2024-12-11,Karnataka,Mysuru,Pulses,238,103,22.0,4071,1.53,93
+2023-02-18,Rajasthan,Jaipur,Rice,162,96,25.6,2305,3.49,8
+2023-01-14,Karnataka,Hubli,Wheat,152,116,38.1,1946,4.05,72
+2022-04-30,Tamil Nadu,Madurai,Cotton,220,12,39.3,4500,2.84,46
+2023-03-24,Karnataka,Mysuru,Maize,85,21,43.2,1583,2.27,50
+2022-11-17,Madhya Pradesh,Jabalpur,Maize,182,31,20.3,1879,3.11,17
+2024-05-25,Rajasthan,Ajmer,Wheat,134,44,14.1,2490,3.47,41
+2024-04-27,Madhya Pradesh,Bhopal,Wheat,129,116,40.6,2318,3.0,8
+2024-04-18,Karnataka,Mangaluru,Cotton,119,59,15.3,4087,2.73,50
+2022-12-20,Haryana,Gurgaon,Rice,134,72,43.4,2955,3.26,32
+2023-08-01,Bihar,Muzaffarpur,Pulses,150,101,12.7,4458,1.02,17
+2022-07-29,Madhya Pradesh,Bhopal,Pulses,226,119,12.8,3391,1.5,16
+2023-10-25,West Bengal,Darjeeling,Pulses,177,109,17.6,3658,1.13,91
+2023-07-14,Maharashtra,Nashik,Rice,204,68,28.1,2242,5.57,15
+2023-05-16,West Bengal,Howrah,Sugarcane,139,10,36.7,2859,8.15,56
+2024-12-18,Haryana,Faridabad,Sugarcane,222,15,17.9,3318,6.88,10
+2024-06-14,Tamil Nadu,Chennai,Rice,71,73,12.2,2424,3.31,29
+2023-07-17,West Bengal,Darjeeling,Cotton,160,131,23.0,4151,2.24,97
+2024-11-09,West Bengal,Kolkata,Pulses,138,11,32.6,3637,1.8,24
+2022-05-19,Punjab,Amritsar,Maize,274,12,12.6,2139,3.86,54
+2022-03-08,Karnataka,Bengaluru,Rice,248,131,38.4,2414,3.84,22
+2024-11-06,Madhya Pradesh,Ujjain,Cotton,85,74,18.6,4178,1.58,72
+2022-02-09,Rajasthan,Udaipur,Cotton,91,19,30.3,4019,1.68,57
+2023-10-03,Madhya Pradesh,Bhopal,Rice,239,103,31.4,2579,5.08,5
+2022-09-24,West Bengal,Siliguri,Maize,132,91,37.7,1735,3.39,97
+2023-12-11,Maharashtra,Mumbai,Pulses,145,81,21.9,4457,1.45,86
+2022-02-06,Punjab,Jalandhar,Wheat,179,20,36.7,2446,4.4,75
+2024-03-09,Tamil Nadu,Salem,Wheat,162,71,10.3,2284,3.67,14
+2024-09-21,Madhya Pradesh,Indore,Sugarcane,205,24,11.2,2849,9.78,6
+2023-11-14,Punjab,Jalandhar,Maize,110,119,41.7,2101,2.63,47
+2022-02-11,Haryana,Faridabad,Sugarcane,113,26,18.6,3446,5.41,76
+2024-01-06,Karnataka,Belagavi,Wheat,224,108,42.9,2480,3.66,65
+2023-12-09,Haryana,Faridabad,Pulses,190,117,34.8,3249,1.31,63
+2023-01-08,Uttar Pradesh,Lucknow,Cotton,153,57,29.6,4260,2.32,21
+2023-12-01,Bihar,Gaya,Maize,90,16,10.9,1602,2.21,3
+2022-11-10,Maharashtra,Pune,Pulses,200,114,42.2,4292,1.31,60
+2022-09-25,Rajasthan,Ajmer,Cotton,146,89,23.8,4050,1.89,53
+2023-08-04,Haryana,Panipat,Maize,35,43,39.3,1519,3.91,33
+2023-07-31,West Bengal,Asansol,Sugarcane,135,38,22.3,2995,7.66,46
+2023-04-28,Rajasthan,Udaipur,Pulses,168,12,34.3,4272,1.89,57
+2022-03-28,Bihar,Muzaffarpur,Wheat,152,148,33.2,2309,4.35,21
+2024-04-08,Madhya Pradesh,Gwalior,Wheat,191,111,23.9,1993,3.43,66
+2024-10-20,Uttar Pradesh,Varanasi,Wheat,112,77,41.1,1983,4.68,86
+2022-09-27,Bihar,Muzaffarpur,Maize,111,70,43.3,1600,3.95,3
+2022-05-01,Rajasthan,Kota,Wheat,150,140,18.4,2292,2.04,56
+2022-09-30,Bihar,Bhagalpur,Maize,114,51,44.5,1548,2.72,76
+2024-02-24,Rajasthan,Jaipur,Cotton,184,63,35.0,4786,1.66,17
+2024-05-09,Bihar,Darbhanga,Sugarcane,107,101,40.7,2923,7.61,75
+2024-10-26,Maharashtra,Pune,Sugarcane,64,76,26.8,3192,6.52,92
+2023-01-24,Bihar,Patna,Wheat,147,129,12.9,2047,2.8,77
+2022-12-13,Karnataka,Hubli,Maize,199,129,15.8,1796,3.2,2
+2023-02-10,Rajasthan,Jodhpur,Sugarcane,192,100,39.1,2819,5.09,14
+2024-04-10,Bihar,Patna,Pulses,162,113,15.7,3454,1.78,54
+2023-10-06,Haryana,Gurgaon,Rice,156,19,24.3,2261,5.33,6
+2023-07-11,Rajasthan,Jodhpur,Cotton,167,12,38.0,4279,1.84,54
+2024-11-30,Karnataka,Hubli,Maize,98,53,35.1,1569,2.42,28
+2023-04-21,Punjab,Bathinda,Rice,204,146,32.9,2500,3.77,34
+2024-08-20,Tamil Nadu,Tiruchirappalli,Pulses,93,37,28.4,3844,1.93,3
+2024-04-30,Haryana,Karnal,Maize,194,122,40.4,1965,2.79,66
+2022-12-06,Madhya Pradesh,Jabalpur,Pulses,155,63,22.8,3502,1.98,29
+2022-01-15,Punjab,Jalandhar,Pulses,110,117,14.4,4370,1.98,41
+2024-11-13,Haryana,Gurgaon,Rice,197,76,18.4,2351,5.64,81
+2023-06-04,Uttar Pradesh,Agra,Cotton,164,133,43.0,4861,2.53,78
+2022-04-15,Tamil Nadu,Madurai,Pulses,123,116,19.3,4225,1.4,37
+2023-06-20,Maharashtra,Aurangabad,Pulses,107,64,43.8,4463,1.8,35
+2023-03-10,Haryana,Faridabad,Maize,170,103,22.5,1883,2.17,25
+2024-08-15,Haryana,Hisar,Rice,191,111,12.9,2979,3.31,67
+2022-08-31,Punjab,Bathinda,Rice,158,14,11.0,2901,3.12,4
+2023-10-07,Madhya Pradesh,Bhopal,Rice,162,21,17.8,2253,3.74,67
+2023-04-04,Maharashtra,Mumbai,Rice,159,11,21.6,2407,3.0,95
+2023-01-07,Madhya Pradesh,Gwalior,Maize,123,145,36.3,1634,2.1,18
+2024-10-21,Bihar,Patna,Wheat,144,126,43.6,2121,2.64,75
+2022-08-11,Rajasthan,Ajmer,Rice,148,28,39.3,2533,4.71,9
+2022-12-04,Tamil Nadu,Salem,Maize,128,23,14.6,1625,2.11,27
+2023-02-04,Uttar Pradesh,Lucknow,Sugarcane,181,104,33.8,3108,7.63,19
+2023-04-27,Punjab,Bathinda,Sugarcane,128,19,28.0,3326,9.8,9
+2022-05-10,Maharashtra,Mumbai,Sugarcane,172,134,42.0,3231,5.7,86
+2024-06-06,Tamil Nadu,Chennai,Cotton,146,116,20.3,4163,1.25,51
+2022-04-19,Punjab,Patiala,Cotton,163,25,10.4,4778,1.58,53
+2024-01-30,Uttar Pradesh,Agra,Cotton,97,108,34.6,4161,1.03,77
+2023-02-28,Bihar,Patna,Rice,135,97,39.1,2501,5.56,62
+2023-08-30,Punjab,Amritsar,Sugarcane,158,60,14.2,3125,8.41,48
+2022-03-21,Madhya Pradesh,Bhopal,Sugarcane,177,77,35.5,2902,7.93,14
+2022-11-14,Rajasthan,Udaipur,Maize,192,138,32.8,1889,2.34,2
+2024-06-27,Punjab,Ludhiana,Maize,166,113,31.8,1640,2.41,72
+2024-10-24,Uttar Pradesh,Lucknow,Wheat,167,122,19.1,1942,4.2,88
+2024-05-15,Punjab,Bathinda,Cotton,186,72,43.7,4975,2.26,100
+2023-08-30,Karnataka,Bengaluru,Sugarcane,180,104,41.3,2952,6.58,24
+2022-05-20,Bihar,Darbhanga,Pulses,192,90,17.9,3709,1.31,8
+2022-10-01,Haryana,Hisar,Maize,100,56,38.3,1670,2.83,69
+2024-08-15,Uttar Pradesh,Varanasi,Pulses,94,46,45.0,4241,1.16,25
+2023-02-10,Haryana,Faridabad,Rice,131,60,22.7,2699,4.54,66
+2022-06-21,Karnataka,Mangaluru,Pulses,105,71,41.6,3876,1.28,89
+2023-10-29,Tamil Nadu,Salem,Wheat,202,25,11.1,1863,2.31,45
+2022-02-10,West Bengal,Kolkata,Maize,180,85,21.8,1905,3.09,1
+2023-10-18,Uttar Pradesh,Varanasi,Sugarcane,215,38,10.6,3123,9.63,23
+2023-07-17,Madhya Pradesh,Indore,Pulses,203,97,41.2,3343,1.77,62
+2023-10-06,West Bengal,Howrah,Rice,189,65,37.8,2167,5.22,5
+2023-11-30,West Bengal,Darjeeling,Rice,149,68,10.8,2872,5.44,88
+2022-11-16,Bihar,Bhagalpur,Rice,127,115,37.8,2191,5.7,30
+2023-02-08,Madhya Pradesh,Ujjain,Cotton,121,124,24.0,4438,1.14,96
+2023-09-16,Maharashtra,Mumbai,Sugarcane,154,58,16.1,3417,7.21,84
+2023-06-16,Madhya Pradesh,Gwalior,Maize,128,11,16.2,1967,3.26,57
+2023-01-19,Punjab,Patiala,Rice,228,24,42.3,2759,4.72,28
+2023-08-23,West Bengal,Kolkata,Wheat,121,24,14.3,2115,4.6,62
+2022-11-08,Madhya Pradesh,Ujjain,Sugarcane,140,47,16.3,3215,7.07,82
+2024-08-08,West Bengal,Darjeeling,Sugarcane,143,142,35.5,3282,8.22,61
+2022-09-11,Punjab,Jalandhar,Wheat,150,134,42.8,2200,5.0,27
+2023-04-02,Haryana,Gurgaon,Cotton,152,115,43.7,4097,2.8,39
+2023-01-22,Rajasthan,Kota,Cotton,98,75,17.3,4919,2.66,3
+2023-07-19,Madhya Pradesh,Bhopal,Wheat,195,148,18.2,1934,2.03,93
+2023-11-07,Bihar,Darbhanga,Rice,206,101,22.1,2937,5.11,75
+2024-04-16,Madhya Pradesh,Ujjain,Pulses,171,124,17.3,4374,1.45,56
+2022-10-12,Karnataka,Belagavi,Maize,71,37,37.3,2162,3.03,43
+2024-03-29,Karnataka,Mangaluru,Wheat,73,13,30.3,1806,3.66,66
+2022-09-14,Rajasthan,Kota,Cotton,53,87,21.5,4334,2.02,19
+2023-01-05,Punjab,Amritsar,Cotton,115,71,24.0,4127,2.38,28
+2022-02-03,Uttar Pradesh,Allahabad,Sugarcane,190,32,29.1,3428,7.44,83
+2023-05-28,Tamil Nadu,Madurai,Pulses,196,84,17.5,3627,1.39,79
+2022-11-29,Punjab,Bathinda,Pulses,121,27,39.7,3584,1.85,36
+2023-07-24,Rajasthan,Jodhpur,Maize,111,30,12.4,2095,3.99,98
+2022-01-26,West Bengal,Siliguri,Rice,191,33,35.8,2947,4.19,56
+2023-02-03,Bihar,Bhagalpur,Rice,147,150,20.2,2688,3.22,13
+2024-02-27,Rajasthan,Jaipur,Rice,41,143,22.8,2183,3.28,90
+2023-11-03,Tamil Nadu,Tiruchirappalli,Wheat,165,55,34.3,1881,4.47,9
+2022-11-27,Uttar Pradesh,Agra,Pulses,137,74,37.8,4217,1.3,20
+2022-10-30,Uttar Pradesh,Lucknow,Rice,147,56,24.8,2370,4.19,80
+2023-12-27,Haryana,Hisar,Wheat,194,56,13.8,2265,4.34,93
+2022-12-15,Karnataka,Hubli,Sugarcane,140,111,15.0,3191,7.67,86
+2023-01-27,Maharashtra,Nagpur,Pulses,127,17,37.2,3629,1.34,23
+2024-01-27,Punjab,Patiala,Maize,102,96,34.8,1862,3.47,28
+2023-07-10,Tamil Nadu,Chennai,Pulses,147,35,38.2,3987,1.68,13
+2024-08-25,Tamil Nadu,Madurai,Wheat,164,79,32.3,2396,3.89,72
+2024-11-11,Punjab,Bathinda,Pulses,194,44,24.7,3700,1.53,20
+2022-07-22,Maharashtra,Mumbai,Pulses,190,26,21.8,4181,1.19,50
+2023-03-29,Maharashtra,Nashik,Wheat,180,43,27.0,2108,2.42,11
+2024-11-18,Maharashtra,Nashik,Cotton,107,25,29.8,4944,1.51,11
+2023-06-23,Tamil Nadu,Tiruchirappalli,Sugarcane,57,21,17.2,2978,5.09,98
+2022-11-22,Rajasthan,Kota,Pulses,204,52,42.0,3852,1.84,4
+2024-12-23,Punjab,Jalandhar,Rice,110,148,42.9,2257,5.78,44
+2023-11-19,Madhya Pradesh,Jabalpur,Sugarcane,174,107,31.5,2857,7.26,15
+2022-05-28,Bihar,Bhagalpur,Sugarcane,159,132,27.7,3048,5.08,44
+2022-10-19,Tamil Nadu,Salem,Sugarcane,210,55,34.5,3370,5.32,69
+2024-08-24,West Bengal,Siliguri,Maize,82,41,21.1,1504,3.64,56
+2024-11-03,Madhya Pradesh,Ujjain,Pulses,96,32,10.4,3674,1.49,23
+2024-01-22,West Bengal,Siliguri,Maize,80,135,21.5,1519,2.63,3
+2023-07-31,Uttar Pradesh,Allahabad,Cotton,104,133,21.7,4422,2.88,95
+2024-01-19,Haryana,Panipat,Pulses,105,117,19.6,3396,1.02,30
+2022-01-02,Punjab,Patiala,Pulses,159,137,29.9,4004,1.11,77
+2023-02-07,Punjab,Jalandhar,Pulses,91,134,25.8,3246,1.53,19
+2022-06-16,Tamil Nadu,Tiruchirappalli,Pulses,181,65,11.5,3146,1.99,10
+2023-07-26,Maharashtra,Aurangabad,Sugarcane,141,96,15.4,3026,8.49,76
+2024-04-07,Maharashtra,Nashik,Rice,132,53,35.6,2986,4.13,60
+2024-07-21,Maharashtra,Mumbai,Cotton,219,67,14.5,4755,2.64,35
+2022-12-06,Punjab,Patiala,Wheat,208,12,18.3,2378,3.25,58
+2022-12-18,Haryana,Karnal,Sugarcane,137,146,10.4,3065,6.66,52
+2024-08-13,Uttar Pradesh,Agra,Cotton,118,140,44.1,4430,2.54,59
+2024-03-27,Maharashtra,Mumbai,Sugarcane,128,81,29.9,3130,9.78,34
+2022-08-15,Punjab,Amritsar,Rice,99,19,24.6,2045,3.34,44
+2022-10-23,Rajasthan,Udaipur,Rice,192,122,13.2,2293,5.46,97
+2024-11-18,Uttar Pradesh,Lucknow,Pulses,249,65,15.8,3866,1.32,37
+2022-12-13,West Bengal,Asansol,Pulses,138,94,24.9,3616,1.22,1
+2023-04-24,Karnataka,Belagavi,Wheat,43,46,23.4,1842,3.98,67
+2022-03-26,Madhya Pradesh,Indore,Rice,125,96,23.7,2153,5.62,15
+2022-02-21,Haryana,Faridabad,Cotton,196,131,42.6,4346,2.86,26
+2024-10-19,Bihar,Gaya,Cotton,121,45,20.2,4806,1.14,66
+2024-12-27,Tamil Nadu,Salem,Wheat,203,136,27.2,2228,2.14,45
+2024-02-21,Madhya Pradesh,Ujjain,Sugarcane,161,67,16.4,3349,6.64,43
+2024-10-28,Tamil Nadu,Chennai,Cotton,194,60,32.0,4782,2.43,60
+2024-11-20,Madhya Pradesh,Jabalpur,Sugarcane,177,45,12.3,3180,9.6,53
+2023-10-08,Haryana,Karnal,Sugarcane,160,86,20.1,3251,5.62,48
+2024-12-13,Karnataka,Mysuru,Maize,142,16,18.0,1638,3.74,68
+2024-08-10,Bihar,Patna,Sugarcane,131,133,25.7,3226,5.39,91
+2024-12-21,Uttar Pradesh,Varanasi,Maize,182,11,37.0,1506,3.85,89
+2024-09-01,Haryana,Hisar,Sugarcane,118,141,10.9,3049,7.15,44
+2023-06-06,Karnataka,Mangaluru,Rice,117,78,33.2,2887,4.6,74
+2022-07-26,Rajasthan,Kota,Pulses,29,90,38.4,3969,1.83,8
+2022-07-27,Maharashtra,Aurangabad,Maize,191,78,21.1,1871,3.85,3
+2022-09-02,Tamil Nadu,Chennai,Pulses,69,46,15.4,3141,1.64,10
+2023-03-14,Haryana,Faridabad,Maize,129,37,28.3,1501,2.59,6
+2023-06-08,Haryana,Gurgaon,Rice,55,11,15.7,2991,3.91,31
+2024-11-25,Maharashtra,Nashik,Wheat,204,88,37.8,2447,3.01,86
+2022-10-08,West Bengal,Asansol,Cotton,155,97,10.1,4907,2.99,85
+2023-03-18,Maharashtra,Nagpur,Wheat,149,78,43.9,2251,3.43,77
+2022-05-08,West Bengal,Kolkata,Cotton,87,96,29.8,4041,2.44,99
+2023-12-17,Uttar Pradesh,Lucknow,Sugarcane,226,117,17.6,3219,5.01,19
+2023-10-31,Bihar,Darbhanga,Wheat,61,112,12.4,2258,4.7,12
+2023-02-24,Tamil Nadu,Salem,Cotton,198,33,21.6,4133,2.67,74
+2023-11-03,Karnataka,Mysuru,Pulses,120,120,34.4,3865,1.06,2
+2022-11-01,Uttar Pradesh,Varanasi,Wheat,218,55,26.1,2073,4.8,13
+2023-05-03,Tamil Nadu,Coimbatore,Sugarcane,201,130,10.4,3421,9.53,78
+2023-12-01,Karnataka,Belagavi,Cotton,115,133,30.6,4812,1.91,72
+2023-03-01,West Bengal,Kolkata,Cotton,118,28,33.1,4128,2.1,69
+2024-08-05,Karnataka,Bengaluru,Cotton,196,105,43.8,4838,1.79,81
+2024-12-12,Uttar Pradesh,Allahabad,Rice,120,43,41.1,2529,4.41,72
+2022-11-30,Uttar Pradesh,Lucknow,Pulses,191,140,40.6,4458,1.43,77
+2024-10-03,Haryana,Panipat,Sugarcane,252,133,31.2,3363,7.9,92
+2023-09-12,Punjab,Bathinda,Rice,127,89,37.6,2454,4.38,93
+2023-02-21,Uttar Pradesh,Agra,Maize,184,45,33.6,1820,2.4,90
+2022-08-07,Punjab,Jalandhar,Sugarcane,198,134,26.7,3047,9.1,13
+2022-11-09,Uttar Pradesh,Agra,Rice,232,13,25.6,2587,5.55,75
+2023-10-08,Haryana,Panipat,Pulses,161,54,22.0,3131,1.22,76
+2023-03-23,Karnataka,Mysuru,Sugarcane,187,91,33.9,2990,6.54,95
+2022-06-10,Karnataka,Belagavi,Cotton,207,137,31.6,4998,2.15,12
+2024-07-19,West Bengal,Kolkata,Maize,124,31,34.5,1530,2.15,96
+2023-12-25,West Bengal,Kolkata,Pulses,188,78,11.6,4417,1.59,60
+2023-09-24,Haryana,Faridabad,Maize,137,86,13.1,1784,3.54,31
+2022-01-28,West Bengal,Siliguri,Cotton,172,52,35.2,4310,2.08,27
+2024-02-12,Maharashtra,Pune,Wheat,141,126,34.8,2433,2.4,85
+2022-12-28,Uttar Pradesh,Allahabad,Sugarcane,120,125,44.4,3004,5.99,91
+2022-02-24,Bihar,Patna,Wheat,202,60,12.9,2093,4.25,93
+2024-06-28,Madhya Pradesh,Ujjain,Wheat,127,74,43.4,2478,2.67,99
+2022-11-24,Maharashtra,Pune,Wheat,221,61,34.9,2030,3.83,100
+2022-03-09,Madhya Pradesh,Jabalpur,Cotton,71,117,20.2,4613,2.01,59
+2024-09-29,Karnataka,Mysuru,Sugarcane,221,110,18.5,3171,9.55,85
+2024-08-29,Punjab,Jalandhar,Rice,74,139,29.1,2376,3.89,92
+2024-01-20,Tamil Nadu,Coimbatore,Pulses,157,83,36.5,3397,1.28,42
+2022-02-25,Karnataka,Mangaluru,Wheat,167,23,20.3,2474,3.55,88
+2023-11-23,Tamil Nadu,Coimbatore,Rice,140,54,20.7,2740,6.0,42
+2023-11-23,Karnataka,Mysuru,Rice,89,84,33.5,2257,3.43,72
+2022-06-27,Karnataka,Bengaluru,Rice,86,74,24.9,2083,3.22,14
+2024-07-31,Madhya Pradesh,Gwalior,Rice,252,86,25.8,2611,3.79,89
+2022-02-28,Tamil Nadu,Coimbatore,Wheat,249,29,17.3,2259,4.17,43
+2024-09-18,Rajasthan,Jodhpur,Cotton,178,127,13.6,4734,2.6,85
+2023-07-30,Tamil Nadu,Chennai,Sugarcane,202,137,27.6,3306,9.64,11
+2022-03-24,Maharashtra,Mumbai,Wheat,167,93,12.7,1857,3.04,43
+2023-11-07,Punjab,Bathinda,Cotton,142,34,42.2,4398,2.89,16
+2022-07-18,Karnataka,Hubli,Pulses,87,114,44.8,3926,1.33,1
+2024-01-01,Uttar Pradesh,Allahabad,Cotton,139,85,28.9,4165,1.56,50
+2024-05-12,Rajasthan,Ajmer,Wheat,44,61,28.2,2355,2.08,36
+2022-03-19,Bihar,Darbhanga,Wheat,198,144,40.4,2152,2.17,17
+2024-02-22,Bihar,Muzaffarpur,Rice,199,145,41.4,2927,5.57,54
+2022-02-28,Haryana,Karnal,Wheat,130,33,11.2,2365,3.69,41
+2024-07-09,Madhya Pradesh,Jabalpur,Cotton,196,110,39.6,4748,2.91,37
+2024-05-02,Bihar,Darbhanga,Pulses,166,147,20.4,3925,1.57,35
+2023-10-10,Rajasthan,Ajmer,Sugarcane,142,52,43.6,2800,9.45,15
+2022-05-29,Bihar,Patna,Rice,150,104,38.7,2527,5.21,14
+2022-07-17,Tamil Nadu,Coimbatore,Cotton,69,20,16.4,4936,1.91,12
+2022-01-03,Karnataka,Bengaluru,Cotton,67,107,10.5,4138,2.34,72
+2022-11-12,Madhya Pradesh,Bhopal,Wheat,156,74,10.6,2472,2.67,97
+2022-09-23,Tamil Nadu,Tiruchirappalli,Sugarcane,110,114,39.1,3487,6.51,8
+2023-08-19,Punjab,Amritsar,Cotton,211,129,23.8,4426,1.64,26
+2023-04-09,West Bengal,Darjeeling,Pulses,137,28,27.0,3660,1.48,72
+2024-03-13,Rajasthan,Ajmer,Rice,117,66,26.8,2778,5.8,18
+2024-04-28,Karnataka,Hubli,Pulses,152,28,34.7,4109,1.4,27
+2022-11-08,Bihar,Bhagalpur,Pulses,112,48,29.9,4310,1.68,16
+2024-01-05,Uttar Pradesh,Agra,Rice,180,38,22.6,2771,4.0,34
+2024-04-25,Maharashtra,Pune,Wheat,117,118,34.5,2090,2.77,79
+2023-08-11,Punjab,Ludhiana,Maize,114,30,23.3,1816,3.48,55
+2023-10-13,Bihar,Gaya,Cotton,195,19,20.1,4777,1.95,24
+2023-02-03,Uttar Pradesh,Varanasi,Maize,120,139,29.0,1835,2.1,15
+2022-10-26,Karnataka,Hubli,Rice,66,90,38.5,2488,3.56,29
+2022-06-13,Madhya Pradesh,Indore,Wheat,201,109,30.0,1884,2.85,3
+2024-04-21,Haryana,Faridabad,Pulses,152,18,11.3,3252,1.43,71
+2024-05-07,Haryana,Panipat,Sugarcane,152,10,20.5,3405,6.41,3
+2024-01-14,Punjab,Ludhiana,Wheat,43,67,12.5,1909,3.18,1
+2022-02-15,Rajasthan,Udaipur,Pulses,185,127,34.3,4058,1.48,21
+2024-02-12,Maharashtra,Pune,Wheat,212,123,42.1,2319,4.68,91
+2023-04-03,Bihar,Bhagalpur,Maize,114,15,31.1,2123,2.73,56
+2022-01-10,Bihar,Gaya,Maize,154,28,16.0,1605,3.24,59
+2023-08-19,West Bengal,Howrah,Cotton,106,97,42.1,4200,2.13,13
+2023-01-01,Tamil Nadu,Salem,Cotton,165,14,11.7,4574,1.04,6
+2024-07-01,West Bengal,Howrah,Pulses,196,78,38.2,4051,1.94,32
+2023-03-05,Karnataka,Bengaluru,Sugarcane,173,146,18.9,2949,6.4,33
+2024-10-15,Haryana,Gurgaon,Wheat,138,150,29.0,1966,2.68,46
+2022-09-09,West Bengal,Darjeeling,Pulses,215,131,21.7,3997,1.1,81
+2024-11-21,Maharashtra,Pune,Maize,105,117,43.2,2042,2.35,27
+2022-11-11,Haryana,Karnal,Maize,163,81,23.1,2000,3.43,89
+2022-12-17,Haryana,Panipat,Sugarcane,166,141,35.9,3269,8.45,33
+2024-01-22,Tamil Nadu,Tiruchirappalli,Cotton,59,91,39.9,4445,2.42,99
+2023-04-18,Maharashtra,Mumbai,Maize,147,39,25.2,1762,3.12,3
+2023-11-04,Punjab,Ludhiana,Sugarcane,144,39,23.5,3097,7.85,77
+2022-12-16,Madhya Pradesh,Indore,Cotton,156,72,30.5,4306,2.2,89
+2024-07-12,Uttar Pradesh,Varanasi,Sugarcane,82,79,17.3,2859,5.92,19
+2024-03-09,Tamil Nadu,Coimbatore,Rice,114,78,10.9,2731,4.04,62
+2023-06-24,Punjab,Bathinda,Wheat,210,50,30.1,2215,3.62,72
+2023-11-27,Haryana,Hisar,Wheat,69,97,32.1,2068,3.62,32
+2022-07-17,Madhya Pradesh,Ujjain,Wheat,150,108,28.6,2053,4.54,74
+2024-02-21,West Bengal,Howrah,Sugarcane,230,100,26.8,3332,8.26,65
+2022-09-25,Tamil Nadu,Salem,Pulses,102,25,20.8,3387,1.22,66
+2022-10-11,Madhya Pradesh,Ujjain,Maize,243,134,35.8,1728,2.88,96
+2023-02-22,Punjab,Jalandhar,Wheat,106,72,35.1,2270,2.29,96
+2024-11-18,Haryana,Hisar,Cotton,81,146,20.6,4802,2.83,87
+2022-07-27,Tamil Nadu,Coimbatore,Wheat,195,122,44.8,1977,2.11,92
+2024-08-01,Uttar Pradesh,Agra,Maize,132,70,26.2,1534,3.81,61
+2023-04-14,Maharashtra,Nagpur,Wheat,146,73,40.2,1874,4.78,78
+2022-02-12,Haryana,Faridabad,Rice,177,124,33.9,2315,5.65,56
+2022-08-04,West Bengal,Kolkata,Cotton,79,14,40.3,4237,2.18,29
+2023-11-15,Madhya Pradesh,Indore,Sugarcane,86,51,44.8,2837,9.4,6
+2024-09-25,Bihar,Bhagalpur,Wheat,145,88,19.3,1982,2.92,64
+2022-12-12,Rajasthan,Jodhpur,Sugarcane,205,15,26.4,3022,5.55,14
+2023-03-13,Uttar Pradesh,Lucknow,Maize,53,46,20.9,1847,2.78,66
+2024-04-08,Rajasthan,Jaipur,Cotton,140,135,12.0,4490,2.8,54
+2024-02-27,Haryana,Gurgaon,Sugarcane,128,13,41.7,2834,6.63,11
+2022-08-26,Rajasthan,Jaipur,Maize,168,84,41.2,1973,2.98,98
+2022-01-18,Maharashtra,Nagpur,Sugarcane,134,62,21.1,3314,9.26,16
+2022-06-11,Rajasthan,Kota,Wheat,199,124,40.8,2345,2.49,89
+2024-03-11,Uttar Pradesh,Lucknow,Maize,146,87,36.9,1801,3.19,65
+2024-11-27,Uttar Pradesh,Agra,Rice,176,140,36.5,2530,4.8,75
+2024-10-19,Karnataka,Mangaluru,Wheat,125,31,37.3,2500,4.69,93
+2022-11-10,Bihar,Darbhanga,Cotton,97,120,36.4,4183,2.79,75
+2023-07-27,Rajasthan,Kota,Maize,136,46,33.6,1797,2.28,82
+2022-12-02,Haryana,Hisar,Sugarcane,151,131,23.0,3286,9.86,84
+2024-02-16,Madhya Pradesh,Gwalior,Rice,124,150,31.4,2889,5.29,21
+2022-08-19,Punjab,Ludhiana,Sugarcane,142,97,39.2,3137,8.99,70
+2023-07-11,Madhya Pradesh,Indore,Cotton,85,83,14.9,4880,2.04,21
+2024-05-18,Madhya Pradesh,Gwalior,Wheat,118,139,26.1,2369,3.17,95
+2022-04-16,Haryana,Gurgaon,Cotton,113,87,27.2,4475,2.61,31
+2023-04-27,Karnataka,Hubli,Sugarcane,164,59,43.6,3168,7.18,81
+2023-11-30,Tamil Nadu,Madurai,Pulses,170,75,23.1,4317,1.72,25
+2023-01-16,Karnataka,Belagavi,Pulses,141,125,35.2,4486,1.84,52
+2024-02-28,Haryana,Faridabad,Maize,131,102,20.2,1686,2.27,54
+2022-09-21,Maharashtra,Nagpur,Sugarcane,118,142,42.1,3287,5.14,81
+2024-07-10,Uttar Pradesh,Allahabad,Rice,204,127,11.5,2896,4.21,17
+2022-03-25,Rajasthan,Kota,Wheat,152,136,11.4,2452,2.47,68
+2022-07-01,Karnataka,Mysuru,Cotton,97,47,29.5,4224,2.1,48
+2024-10-20,Maharashtra,Nagpur,Wheat,78,116,29.6,2282,3.81,46
+2022-05-04,Maharashtra,Nagpur,Maize,201,91,29.0,1648,3.91,69
+2023-12-27,Haryana,Karnal,Maize,148,128,12.0,1522,2.72,76
+2022-05-16,Madhya Pradesh,Indore,Cotton,150,66,34.1,4919,1.66,73
+2023-02-20,Maharashtra,Pune,Maize,137,84,10.7,1612,2.86,1
+2024-11-30,Tamil Nadu,Salem,Rice,191,39,30.6,2633,3.04,87
+2023-09-02,Karnataka,Mysuru,Pulses,171,73,31.6,3059,1.29,22
+2024-12-13,Rajasthan,Ajmer,Pulses,172,41,10.2,4199,1.99,5
+2024-05-07,Madhya Pradesh,Gwalior,Cotton,167,49,37.8,4507,2.01,52
+2023-12-11,Haryana,Gurgaon,Wheat,187,130,40.1,2004,4.32,52
+2023-09-26,Karnataka,Mangaluru,Maize,123,90,40.7,1915,2.14,9
+2022-11-12,Maharashtra,Pune,Rice,232,116,26.6,2619,4.09,42
+2024-10-12,Madhya Pradesh,Bhopal,Cotton,142,22,18.9,4774,2.76,24
+2022-07-17,Tamil Nadu,Coimbatore,Sugarcane,82,88,12.8,3212,9.9,85
+2024-04-12,Madhya Pradesh,Ujjain,Rice,133,96,35.0,2286,5.01,24
+2024-03-19,Uttar Pradesh,Allahabad,Maize,116,47,12.0,1916,4.0,89
+2022-12-09,Rajasthan,Jodhpur,Cotton,159,28,23.1,4780,2.01,17
+2024-12-05,Uttar Pradesh,Agra,Maize,183,46,20.3,1910,3.91,2
+2023-12-22,Tamil Nadu,Salem,Rice,175,48,42.0,2014,5.41,79
+2022-05-25,Rajasthan,Ajmer,Pulses,216,96,28.4,4369,1.63,47
+2024-08-12,Bihar,Gaya,Rice,188,85,26.4,2310,5.15,98
+2023-05-29,Tamil Nadu,Madurai,Wheat,138,87,37.2,2155,3.6,70
+2023-12-28,Rajasthan,Jodhpur,Wheat,132,143,31.1,2475,4.59,17
+2024-10-01,Bihar,Muzaffarpur,Pulses,167,63,38.2,3756,1.98,47
+2022-05-17,Rajasthan,Jaipur,Pulses,211,71,17.0,4082,1.81,51
+2023-12-09,Haryana,Hisar,Cotton,176,39,35.9,4305,2.0,78
+2023-02-14,Punjab,Jalandhar,Maize,168,138,38.4,1606,3.36,70
+2022-05-27,Uttar Pradesh,Kanpur,Rice,158,66,14.0,2382,5.47,92
+2022-02-19,Karnataka,Hubli,Rice,78,29,29.2,2525,4.05,98
+2024-09-15,Uttar Pradesh,Allahabad,Cotton,183,36,38.6,4161,1.03,85
+2022-01-06,Tamil Nadu,Salem,Cotton,145,114,37.4,4543,2.83,71
+2024-03-07,Madhya Pradesh,Indore,Cotton,233,135,29.7,4332,1.35,99
+2024-01-05,Bihar,Darbhanga,Cotton,134,60,20.6,4164,2.11,46
+2024-03-15,Rajasthan,Kota,Sugarcane,170,15,19.8,2972,5.0,39
+2023-05-12,Bihar,Bhagalpur,Rice,134,39,38.9,2534,3.75,9
+2024-04-09,Madhya Pradesh,Gwalior,Wheat,149,10,14.9,2261,4.88,75
+2022-08-17,Rajasthan,Jaipur,Rice,139,74,19.3,2866,3.94,29
+2024-01-24,West Bengal,Kolkata,Rice,154,49,10.8,2439,5.6,48
+2024-03-15,Karnataka,Mangaluru,Pulses,127,109,17.4,3096,1.43,43
+2023-08-29,Bihar,Gaya,Sugarcane,85,79,44.4,2905,9.9,88
+2022-11-01,Haryana,Gurgaon,Rice,103,112,40.3,2324,4.03,64
+2022-09-20,West Bengal,Darjeeling,Pulses,107,147,32.4,4317,1.12,24
+2022-08-10,West Bengal,Howrah,Cotton,196,118,10.3,4545,1.59,92
+2022-03-11,Tamil Nadu,Coimbatore,Cotton,172,13,27.4,4466,1.26,5
+2023-03-09,Karnataka,Mangaluru,Wheat,105,138,37.7,1852,2.79,70
+2023-08-30,Tamil Nadu,Salem,Maize,43,121,32.9,1855,3.6,60
+2024-06-16,Bihar,Muzaffarpur,Cotton,89,101,36.9,4869,1.71,65
+2023-12-14,Maharashtra,Nagpur,Pulses,250,134,11.7,3195,1.82,36
+2023-07-07,Haryana,Panipat,Maize,193,120,32.4,2001,3.94,73
+2024-06-27,West Bengal,Kolkata,Pulses,222,25,41.2,3579,1.22,49
+2022-08-03,Punjab,Amritsar,Pulses,74,57,17.9,3810,1.79,62
+2022-03-21,Punjab,Jalandhar,Maize,109,32,17.0,2055,3.24,16
+2024-01-20,Maharashtra,Nashik,Pulses,122,29,14.7,3857,1.79,50
+2022-05-31,Rajasthan,Jodhpur,Rice,192,24,24.0,2711,5.57,69
+2024-08-14,Bihar,Muzaffarpur,Rice,150,139,40.9,2413,3.14,97
+2022-02-07,Karnataka,Mysuru,Sugarcane,147,115,20.9,3391,6.86,20
+2024-02-21,Uttar Pradesh,Lucknow,Sugarcane,219,13,18.8,2936,8.27,2
+2023-10-03,West Bengal,Siliguri,Maize,154,78,33.9,2088,2.92,72
+2024-09-07,West Bengal,Asansol,Wheat,203,44,32.4,2161,3.46,36
+2024-07-25,West Bengal,Asansol,Cotton,115,46,24.6,4164,1.39,17
+2022-11-07,Punjab,Jalandhar,Maize,127,92,35.4,1700,3.91,51
+2022-02-09,Punjab,Bathinda,Pulses,196,106,27.4,3668,1.47,94
+2023-10-15,Madhya Pradesh,Jabalpur,Sugarcane,214,50,13.9,3200,8.85,40
+2023-11-01,Karnataka,Mysuru,Cotton,224,35,43.3,4721,2.7,77
+2023-02-09,Madhya Pradesh,Bhopal,Sugarcane,105,119,26.9,3317,7.4,55
+2023-06-16,Maharashtra,Nashik,Rice,123,20,25.7,2672,5.42,63
+2023-07-22,Madhya Pradesh,Bhopal,Maize,68,144,16.9,1566,2.71,67
+2022-02-09,West Bengal,Siliguri,Cotton,120,135,23.2,4910,1.94,87
+2023-09-25,Bihar,Darbhanga,Maize,149,120,14.5,1901,3.33,11
+2023-07-25,Uttar Pradesh,Varanasi,Sugarcane,256,123,16.0,3074,6.14,61
+2024-12-22,Punjab,Amritsar,Rice,249,83,23.1,2000,3.09,97
+2024-10-07,Karnataka,Belagavi,Wheat,183,30,17.1,1812,4.29,70
+2022-05-18,Bihar,Muzaffarpur,Wheat,92,125,24.1,1893,2.09,70
+2024-06-29,Punjab,Jalandhar,Pulses,133,74,13.8,4411,1.7,78
+2023-07-20,Haryana,Panipat,Pulses,151,53,24.9,3030,1.57,4
+2022-10-13,Bihar,Bhagalpur,Wheat,141,85,33.1,1983,4.79,44
+2022-08-23,Bihar,Bhagalpur,Maize,200,45,11.6,1753,3.81,69
+2023-12-13,Maharashtra,Aurangabad,Rice,85,81,20.9,2838,4.24,52
+2023-11-04,Rajasthan,Jodhpur,Maize,161,19,37.2,2074,2.17,45
+2022-05-02,West Bengal,Kolkata,Maize,243,35,41.3,2092,2.09,57
+2024-02-25,Bihar,Gaya,Rice,79,33,12.3,2178,5.43,47
+2023-03-15,Bihar,Gaya,Wheat,249,109,11.4,2184,3.88,70
+2024-04-29,Bihar,Darbhanga,Cotton,143,149,40.6,4859,2.19,45
+2022-05-25,Maharashtra,Pune,Pulses,166,72,29.7,3276,1.41,21
+2024-11-29,Haryana,Hisar,Maize,82,128,15.7,1836,2.13,23
+2022-12-20,Bihar,Patna,Wheat,196,54,21.4,1868,4.26,52
+2024-11-10,Bihar,Bhagalpur,Rice,145,97,34.6,2739,4.95,1
+2023-01-29,Punjab,Ludhiana,Cotton,235,139,21.5,4834,1.54,92
+2023-12-27,Tamil Nadu,Salem,Cotton,89,25,12.0,4070,2.25,56
+2022-07-09,Karnataka,Mysuru,Maize,102,94,19.1,1961,2.31,78
+2023-03-13,Bihar,Patna,Wheat,158,25,12.1,2461,2.33,82
+2024-11-07,Karnataka,Hubli,Cotton,144,148,43.5,4517,2.95,89
+2023-10-29,Karnataka,Mangaluru,Rice,226,13,16.9,2563,4.7,25
+2023-10-11,Karnataka,Mangaluru,Maize,128,39,37.3,1798,2.51,49
+2022-07-02,Rajasthan,Ajmer,Rice,203,12,28.7,2943,3.21,97
+2023-01-25,Rajasthan,Jaipur,Cotton,99,108,33.0,4699,2.83,74
+2024-07-13,Tamil Nadu,Coimbatore,Rice,81,19,21.5,2149,4.42,16
+2024-01-30,Karnataka,Hubli,Rice,203,68,21.4,2302,4.24,46
+2023-06-13,Rajasthan,Udaipur,Wheat,167,115,27.3,2136,4.46,1
+2023-12-31,West Bengal,Siliguri,Wheat,190,41,31.8,1807,2.77,83
+2023-08-05,Uttar Pradesh,Agra,Wheat,152,62,42.4,2094,3.31,84
+2024-12-07,Haryana,Hisar,Maize,112,87,15.3,1888,2.02,87
+2022-12-19,West Bengal,Howrah,Cotton,117,115,44.9,4575,2.74,3
+2022-06-23,Bihar,Patna,Cotton,127,116,33.9,4741,1.97,65
+2024-07-14,Tamil Nadu,Chennai,Cotton,217,26,16.2,4751,1.22,83
+2022-11-18,Haryana,Panipat,Rice,157,51,39.2,2865,5.51,31
+2022-01-20,Tamil Nadu,Tiruchirappalli,Rice,184,97,13.7,2440,3.54,9
+2024-09-29,Bihar,Gaya,Sugarcane,200,72,41.8,3175,5.23,76
+2024-05-17,Punjab,Jalandhar,Cotton,197,130,37.3,4676,1.39,10
+2023-04-12,Haryana,Gurgaon,Cotton,237,31,20.0,4144,2.67,7
+2024-08-24,Madhya Pradesh,Jabalpur,Maize,103,29,32.3,1987,2.26,55
+2022-11-18,Karnataka,Mysuru,Maize,100,142,35.2,2155,2.72,81
+2024-11-27,West Bengal,Kolkata,Cotton,251,12,25.0,4536,1.24,26
+2024-02-29,Punjab,Jalandhar,Rice,164,23,26.9,2963,5.42,17
+2023-03-06,Madhya Pradesh,Ujjain,Maize,191,134,28.4,1754,3.87,62
+2023-04-18,Uttar Pradesh,Varanasi,Maize,170,105,12.1,2149,3.5,41
+2023-09-13,Maharashtra,Pune,Rice,162,27,23.6,2028,4.0,98
+2022-07-19,Madhya Pradesh,Bhopal,Rice,236,32,38.6,2211,4.72,1
+2024-02-02,Uttar Pradesh,Varanasi,Wheat,149,76,43.1,1980,2.33,50
+2023-06-03,Uttar Pradesh,Kanpur,Maize,138,57,27.9,1599,3.0,77
+2023-06-14,Tamil Nadu,Tiruchirappalli,Sugarcane,55,51,23.0,3299,9.31,88
+2023-04-12,Haryana,Panipat,Sugarcane,146,114,38.3,2967,5.32,23
+2024-08-25,West Bengal,Kolkata,Rice,136,56,39.2,2633,4.79,100
+2024-10-25,Rajasthan,Kota,Pulses,162,55,41.7,3716,1.23,71
+2023-11-12,Bihar,Muzaffarpur,Maize,132,143,23.1,1916,3.29,28
+2022-10-11,West Bengal,Kolkata,Maize,155,128,16.3,1789,2.93,18
+2023-03-09,Uttar Pradesh,Kanpur,Cotton,111,38,38.7,4843,2.01,32
+2023-07-03,West Bengal,Darjeeling,Maize,113,26,37.6,1632,3.61,52
+2024-03-04,West Bengal,Asansol,Maize,137,29,34.8,1907,3.62,36
+2023-10-01,Tamil Nadu,Coimbatore,Sugarcane,157,109,10.5,2885,9.84,93
+2022-08-16,Haryana,Faridabad,Cotton,117,37,14.2,4675,1.21,97
+2023-01-13,Madhya Pradesh,Gwalior,Rice,107,48,28.8,2652,4.88,53
+2024-05-15,Maharashtra,Nagpur,Rice,207,124,14.3,2142,3.21,71
+2022-11-09,West Bengal,Asansol,Cotton,141,129,26.9,4746,1.08,84
+2024-02-20,Bihar,Muzaffarpur,Sugarcane,162,24,18.2,3270,5.61,96
+2023-02-18,Haryana,Panipat,Maize,135,113,15.3,1511,2.2,58
+2024-12-12,Uttar Pradesh,Kanpur,Sugarcane,172,134,36.4,3393,8.33,77
+2022-03-23,Tamil Nadu,Salem,Maize,103,91,32.5,1882,3.75,2
+2024-12-05,Madhya Pradesh,Jabalpur,Cotton,119,89,28.9,4699,2.7,85
+2023-10-31,Tamil Nadu,Tiruchirappalli,Maize,125,81,29.0,1743,3.66,19
+2024-02-11,Tamil Nadu,Tiruchirappalli,Pulses,65,37,40.6,4364,1.54,84
+2024-01-13,Uttar Pradesh,Lucknow,Sugarcane,41,30,33.5,2965,7.11,23
+2024-11-06,Rajasthan,Ajmer,Pulses,115,101,11.6,4047,1.99,78
+2023-07-16,Uttar Pradesh,Varanasi,Rice,191,11,43.5,2196,5.64,56
+2022-05-27,Haryana,Faridabad,Sugarcane,148,75,31.9,3359,6.78,49
+2024-06-20,Karnataka,Hubli,Pulses,103,122,41.3,3403,1.81,53
+2023-01-02,Rajasthan,Jaipur,Wheat,194,28,43.7,2137,3.34,18
+2024-05-11,West Bengal,Siliguri,Maize,163,63,43.8,2037,2.93,96
+2023-10-04,West Bengal,Siliguri,Maize,196,41,42.5,1934,3.16,85
+2023-01-23,Rajasthan,Jaipur,Wheat,210,47,16.0,2094,4.3,11
+2022-03-27,Punjab,Ludhiana,Cotton,149,78,20.2,4996,2.08,77
+2022-01-05,Madhya Pradesh,Jabalpur,Pulses,172,44,25.1,4457,1.79,9
+2024-01-30,Madhya Pradesh,Bhopal,Maize,57,84,11.2,1570,2.15,94
+2023-01-12,Haryana,Gurgaon,Sugarcane,241,147,41.6,2862,9.8,30
+2022-08-16,Rajasthan,Ajmer,Pulses,86,16,33.2,4457,1.22,71
+2024-12-14,Haryana,Karnal,Maize,237,113,12.1,1806,2.68,86
+2022-03-18,Uttar Pradesh,Lucknow,Rice,228,39,33.3,2617,5.47,55
+2024-07-01,Uttar Pradesh,Allahabad,Sugarcane,193,44,19.6,3340,7.96,52
+2023-04-22,Karnataka,Bengaluru,Sugarcane,137,120,26.8,3386,7.62,74
+2022-02-11,Madhya Pradesh,Ujjain,Cotton,164,75,25.6,4276,2.65,13
+2022-10-19,Maharashtra,Mumbai,Cotton,104,19,22.2,4648,2.52,59
+2024-03-28,West Bengal,Kolkata,Sugarcane,205,60,10.6,3126,6.05,67
+2023-07-03,Rajasthan,Jaipur,Cotton,201,42,22.6,4784,1.47,61
+2022-08-27,Maharashtra,Nagpur,Cotton,146,82,40.8,4753,1.61,8
+2024-06-15,Rajasthan,Ajmer,Sugarcane,119,99,30.2,3487,6.03,68
+2023-10-04,Karnataka,Hubli,Pulses,201,148,36.1,4154,1.88,98
+2022-06-12,West Bengal,Howrah,Rice,108,72,26.6,2504,3.53,97
+2023-12-15,Bihar,Gaya,Rice,112,31,43.0,2950,4.15,94
+2022-01-02,Uttar Pradesh,Kanpur,Maize,268,36,39.2,1671,3.06,45
+2022-07-27,Madhya Pradesh,Ujjain,Cotton,83,13,43.3,4292,2.66,25
+2022-07-14,West Bengal,Darjeeling,Sugarcane,185,79,17.3,2942,7.41,17
+2023-02-12,Haryana,Faridabad,Wheat,150,121,16.6,2340,2.18,22
+2023-05-27,Maharashtra,Mumbai,Wheat,229,105,44.0,2320,2.12,85
+2024-07-01,Uttar Pradesh,Varanasi,Wheat,151,89,17.1,2484,4.58,90
+2024-12-14,Uttar Pradesh,Kanpur,Cotton,123,14,16.5,4707,1.82,18
+2022-08-04,Haryana,Karnal,Maize,156,48,11.0,2072,3.09,94
+2022-10-29,Haryana,Karnal,Sugarcane,143,20,44.0,3028,9.64,53
+2022-11-03,Tamil Nadu,Tiruchirappalli,Wheat,169,25,19.1,1883,4.72,2
+2024-02-06,Haryana,Faridabad,Pulses,207,121,35.4,4340,1.85,100
+2024-10-31,Uttar Pradesh,Varanasi,Maize,31,72,43.1,1530,3.86,78
+2023-03-01,West Bengal,Kolkata,Pulses,169,18,20.9,3197,1.56,45
+2023-03-28,West Bengal,Asansol,Pulses,141,89,33.4,3194,1.5,45
+2024-07-12,Uttar Pradesh,Varanasi,Maize,182,62,38.9,1987,2.69,89
+2022-08-11,Karnataka,Mysuru,Wheat,163,72,24.2,2020,4.67,22
+2022-04-20,Rajasthan,Udaipur,Rice,177,99,44.2,2266,3.45,76
+2024-09-23,Bihar,Darbhanga,Wheat,138,128,10.9,2288,4.0,34
+2023-04-02,Haryana,Karnal,Rice,20,62,22.5,2499,4.28,71
+2023-09-30,Haryana,Gurgaon,Cotton,42,78,15.7,4256,2.11,52
+2023-08-05,Haryana,Faridabad,Pulses,157,78,15.3,4492,1.29,3
+2023-11-23,Uttar Pradesh,Varanasi,Pulses,125,37,14.8,4372,1.23,89
+2022-07-05,Haryana,Karnal,Rice,78,131,16.8,2183,3.11,15
+2023-05-24,Bihar,Bhagalpur,Cotton,83,10,44.2,4529,2.55,35
+2024-04-20,Bihar,Patna,Maize,171,105,22.4,1882,2.96,13
+2022-09-29,Madhya Pradesh,Jabalpur,Sugarcane,136,55,40.0,3444,8.3,98
+2022-12-24,Rajasthan,Kota,Wheat,89,91,43.3,2030,2.89,52
+2022-08-27,West Bengal,Howrah,Pulses,110,72,12.5,3305,1.62,77
+2024-08-13,Punjab,Jalandhar,Maize,204,81,23.8,1541,3.43,21
+2023-12-27,Punjab,Amritsar,Wheat,139,17,38.2,2269,4.98,71
+2024-07-18,Madhya Pradesh,Gwalior,Wheat,78,139,24.4,2271,4.86,6
+2023-02-16,Uttar Pradesh,Lucknow,Maize,105,11,10.9,1628,3.17,54
+2022-06-04,Rajasthan,Jaipur,Maize,81,117,23.4,2185,3.56,22
+2023-05-18,Madhya Pradesh,Jabalpur,Rice,98,93,38.2,2203,3.69,44
+2024-04-12,Maharashtra,Pune,Cotton,131,88,29.3,4499,2.95,44
+2024-07-11,Madhya Pradesh,Gwalior,Rice,141,13,43.2,2132,5.93,33
+2023-07-08,Punjab,Jalandhar,Rice,87,29,19.2,2404,4.37,5
+2024-04-09,Maharashtra,Nagpur,Wheat,212,15,28.7,2335,4.96,31
+2022-12-24,Karnataka,Mangaluru,Maize,207,38,43.9,2177,3.99,62
+2023-06-19,Rajasthan,Jaipur,Rice,164,132,21.6,2665,4.6,9
+2024-04-19,Karnataka,Hubli,Maize,168,30,36.9,1980,2.01,15
+2024-04-09,Haryana,Karnal,Pulses,151,18,30.7,3333,1.11,88
+2022-04-23,Punjab,Amritsar,Maize,121,59,25.1,2001,2.04,28
+2023-11-21,Bihar,Darbhanga,Wheat,116,64,18.1,2127,4.69,12
+2022-02-19,Rajasthan,Kota,Cotton,101,149,17.1,4061,1.42,87
+2023-03-15,Uttar Pradesh,Kanpur,Cotton,88,56,38.7,4836,1.7,61
+2023-07-29,Karnataka,Hubli,Cotton,125,45,37.4,4665,2.77,41
+2022-01-11,Rajasthan,Jaipur,Pulses,125,10,15.5,3806,1.33,79
+2024-08-07,Haryana,Gurgaon,Cotton,150,112,33.8,4237,2.12,31
+2024-01-18,Uttar Pradesh,Lucknow,Pulses,137,58,18.4,3426,1.17,37
+2022-11-08,Karnataka,Belagavi,Cotton,97,43,16.2,4697,2.75,91
+2024-05-18,Punjab,Jalandhar,Wheat,193,121,20.8,2181,3.52,87
+2024-01-19,Uttar Pradesh,Lucknow,Pulses,148,74,40.2,3044,1.86,91
+2023-04-22,Haryana,Faridabad,Cotton,178,79,23.7,4360,2.66,54
+2024-02-13,Haryana,Karnal,Sugarcane,175,118,30.1,2854,9.81,55
+2024-02-08,Punjab,Patiala,Wheat,198,121,24.4,1977,4.68,8
+2024-05-04,Uttar Pradesh,Varanasi,Rice,125,84,35.9,2765,5.96,55
+2023-01-13,West Bengal,Darjeeling,Pulses,100,52,42.0,3572,1.08,94
+2024-01-26,West Bengal,Siliguri,Cotton,138,117,43.8,4500,1.42,45
+2024-09-30,West Bengal,Kolkata,Maize,137,120,40.5,1640,2.81,11
+2022-03-27,Bihar,Bhagalpur,Cotton,202,123,40.1,4055,1.26,69
+2024-07-29,West Bengal,Siliguri,Pulses,124,149,17.1,4021,1.85,88
+2022-05-26,Madhya Pradesh,Bhopal,Maize,235,17,15.3,2111,2.81,35
+2023-01-27,Bihar,Gaya,Pulses,181,148,44.0,4176,1.65,53
+2024-06-11,Rajasthan,Jodhpur,Wheat,140,99,29.5,2294,3.42,8
+2024-09-10,Madhya Pradesh,Bhopal,Wheat,148,99,16.6,2435,2.2,10
+2023-03-03,Tamil Nadu,Salem,Rice,150,145,36.4,2013,4.73,78
+2022-08-31,Madhya Pradesh,Jabalpur,Rice,172,146,33.1,2388,5.58,19
+2022-11-30,Madhya Pradesh,Indore,Maize,158,125,37.5,1727,3.77,97
+2022-07-08,Maharashtra,Mumbai,Cotton,149,144,35.2,4342,2.65,85
+2023-09-13,Haryana,Karnal,Pulses,132,58,38.8,4409,1.57,96
+2024-11-04,Uttar Pradesh,Varanasi,Maize,115,17,10.8,1542,2.16,34
+2024-02-23,Bihar,Gaya,Cotton,130,83,12.2,4469,2.19,10
+2024-03-26,Bihar,Darbhanga,Maize,199,60,43.9,1928,3.33,55
+2022-07-02,West Bengal,Darjeeling,Pulses,185,99,41.4,3009,1.66,98
+2022-02-01,Haryana,Gurgaon,Wheat,141,14,31.0,1906,3.45,22
+2024-03-30,Bihar,Patna,Pulses,64,74,23.9,3017,1.38,54
+2023-12-02,Bihar,Patna,Maize,188,127,27.9,1775,2.27,91
+2022-02-03,Madhya Pradesh,Bhopal,Wheat,166,132,42.8,1918,4.61,16
+2024-10-15,Haryana,Panipat,Wheat,180,26,17.8,2261,3.94,46
+2024-11-08,Tamil Nadu,Salem,Pulses,178,56,25.4,3683,1.87,74
+2022-05-17,West Bengal,Asansol,Pulses,89,98,26.8,3144,1.42,14
+2023-09-19,West Bengal,Asansol,Maize,132,69,31.1,1758,2.09,20
+2024-04-06,Maharashtra,Mumbai,Cotton,162,50,13.9,4104,1.09,46
+2022-05-02,Uttar Pradesh,Agra,Cotton,215,91,26.1,4394,2.94,3
+2022-04-20,Bihar,Bhagalpur,Rice,112,133,25.2,2441,3.39,99
+2022-06-19,Madhya Pradesh,Gwalior,Sugarcane,113,131,16.6,3051,8.7,100
+2023-08-22,Maharashtra,Nashik,Pulses,142,58,19.8,4230,1.18,79
+2023-05-17,Punjab,Bathinda,Sugarcane,141,147,33.2,2871,9.73,51
+2022-05-02,Haryana,Hisar,Pulses,158,75,15.0,3528,1.66,16
+2024-05-18,Uttar Pradesh,Lucknow,Wheat,79,125,31.7,2020,3.34,97
+2024-06-20,Haryana,Faridabad,Wheat,40,33,32.5,1967,4.44,28
+2023-04-06,Tamil Nadu,Salem,Maize,267,82,36.4,1722,3.52,70
+2022-03-18,Haryana,Panipat,Wheat,136,90,24.5,2470,2.37,45
+2023-01-04,Bihar,Patna,Cotton,137,98,17.2,4786,2.07,32
+2024-05-30,Haryana,Gurgaon,Rice,153,49,24.3,2113,3.15,35
+2022-10-16,Bihar,Muzaffarpur,Pulses,134,38,16.5,4254,2.0,55
+2024-08-04,Haryana,Karnal,Wheat,176,84,12.0,2049,4.48,97
+2022-10-18,West Bengal,Siliguri,Wheat,36,52,45.0,2246,4.74,18
+2022-02-09,Karnataka,Belagavi,Wheat,116,75,32.1,1804,4.56,41
+2024-03-10,Tamil Nadu,Coimbatore,Sugarcane,85,90,25.7,3179,8.71,96
+2024-03-21,Uttar Pradesh,Varanasi,Maize,224,130,44.1,1506,2.24,80
+2024-09-11,Haryana,Gurgaon,Pulses,20,125,34.6,4178,1.07,88
+2023-01-31,West Bengal,Kolkata,Cotton,171,102,25.3,4054,2.24,96
+2022-07-21,Haryana,Karnal,Pulses,139,42,24.4,3872,1.11,58
